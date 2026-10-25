@@ -23,6 +23,8 @@
 3. 双击文件夹里的 `index.html`，用 Edge、Chrome 或其他现代浏览器打开。
 4. 选择词库和分组，开始学习或直接测验。
 
+可选国内的 [WorkBuddy](https://www.workbuddy.cn/)、[豆包工作](https://www.doubao.com/work)、[TRAE](https://www.trae.cn/) 等，或海外的 Codex、Claude Code、Cursor 等。任选支持本地文件操作的工具，并启用本机文件夹访问能力。
+
 本地 Agent 提示词：
 
 ```text
