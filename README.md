@@ -43,12 +43,13 @@
 git clone https://github.com/lele2026startup-dot/zhiyan-marx-english.git
 ```
 
-下载后的 `index.html` 约38 MiB，包含完整音频；请保持下载完整。`CHECKSUMS.txt` 提供入口文件的 SHA256 校验值。
+下载后的 `index.html` 约35 MiB，包含完整音频；请保持下载完整。`CHECKSUMS.txt` 提供入口文件的 SHA256 校验值。
 
 ## 学习功能
 
 - 每组10条，支持术语、中文、释义、练习句及参考出处。
 - 术语与例句均可播放发音，不包含录音或语音输入。
+- 经典原著中的马克思、恩格斯、列宁70条提供逐词音标参考、真实英文摘句、作品与章节链接，以及可展开的原著解读。德语专名单独标注；尚未核实的罕见读音明确标记。
 - 分组测验、查看答案、错词重测与本地学习进度保存。
 - 进度保存在当前浏览器的本地存储中，换浏览器、清理数据或更换文件位置可能影响进度。
 
@@ -57,7 +58,7 @@ git clone https://github.com/lele2026startup-dot/zhiyan-marx-english.git
 - [Word版下载与使用指南](docs/quickstart.docx)
 - [PDF版下载与使用指南](docs/quickstart.pdf)
 
-工具仅用于学习，不提供口语自动评分，也不承诺考试结果。词条的简释、口头练习句及中译为项目编写的学习材料，来源说明可在学习卡片中展开查看。
+工具仅用于学习，不提供口语自动评分，也不承诺考试结果。真实摘句与项目编写的练习句分别标注；简释、学习用中译和原著解读为项目编写。摘句保留所链接英译本的措辞，短片段需结合章节上下文理解。音标是逐词参考，不代表整句连读；拼写测试仍使用编写的术语练习题。
 
 ## 文件
 
@@ -70,3 +71,5 @@ git clone https://github.com/lele2026startup-dot/zhiyan-marx-english.git
 本仓库公开，可免费下载。学习内容和程序源码均可在仓库中查看。
 
 ![手机界面预览](docs/preview.png)
+
+![原文摘句与解读](docs/classics-reading.png)

@@ -7061,99 +7061,367 @@
       "zh": "《1844年经济学哲学手稿》",
       "en": "Economic and Philosophic Manuscripts of 1844",
       "definition": "马克思1844年写作的未完成手稿，围绕政治经济学、异化劳动和人的发展展开批判，后经整理出版。",
-      "sentence": "Economic and Philosophic Manuscripts of 1844 examines alienated labour and the possibilities of human development.",
-      "translation": "《1844年经济学哲学手稿》考察异化劳动以及人的发展的可能性。",
+      "sentence": "We proceed from an actual economic fact.",
+      "translation": "我们从一个现实的经济事实出发。",
       "hint": "",
       "source": "马克思《1844年经济学哲学手稿》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm",
-      "sourceNote": "目录与版本说明：Martin Milligan译，Progress Publishers 1959；此版用 Philosophic，其他版本常用 Philosophical。 释义及复试练习句为原创。",
+      "sourceNote": "目录与版本说明：Martin Milligan译，Progress Publishers 1959；此版用 Philosophic，其他版本常用 Philosophical。 释义为项目编写。",
       "aliases": [
         "Economic and Philosophical Manuscripts of 1844"
       ],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Economic and Philosophic Manuscripts of 1844 examines alienated labour and the possibilities of human development.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《1844年经济学哲学手稿》",
+        "locator": "第一手稿·异化劳动，提出现实经济事实的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说明讨论从可观察的经济处境展开，异化分析因此需要解释现实关系而非虚构人类起源。",
+        "context": "异化劳动一节拒绝把私有财产的形成推回想象中的原始状态，随后提出工人生产财富却愈加贫困的事实，并分析产品如何反过来支配生产者。",
+        "point": "把现实经济事实与解释事实的理论区分开，不能以给现象贴上异化标签代替对其关系的说明。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Economic",
+            "ipa": "ˌɛkəˈnɑmɪk",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Philosophic",
+            "ipa": "ˌfɪl.əˈsɑː.fɪk",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/pronunciation/english/philosophic"
+          },
+          {
+            "word": "Manuscripts",
+            "ipa": "ˈmænjəsˌkɹɪpts",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "eighteen",
+            "ipa": "ˌeɪˈtiːn",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/pronunciation/english/eighteen"
+          },
+          {
+            "word": "forty",
+            "ipa": "ˈfɔɹti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "four",
+            "ipa": "ˈfɔɹ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-002",
       "zh": "《关于费尔巴哈的提纲》",
       "en": "Theses on Feuerbach",
       "definition": "马克思1845年写作的简短提纲，从实践立场批判旧唯物主义和唯心主义，突出改变世界的问题。",
-      "sentence": "Theses on Feuerbach emphasizes practical activity when examining knowledge, social relations, and the task of philosophy.",
-      "translation": "《关于费尔巴哈的提纲》在考察认识、社会关系与哲学任务时强调实践活动。",
+      "sentence": "All social life is essentially practical.",
+      "translation": "全部社会生活在本质上是实践的。",
       "hint": "",
       "source": "马克思《关于费尔巴哈的提纲》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
-      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义及复试练习句为原创。",
+      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Theses on Feuerbach emphasizes practical activity when examining knowledge, social relations, and the task of philosophy.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《关于费尔巴哈的提纲》",
+        "locator": "第八条",
+        "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把实践提升为理解社会生活的基本角度，说明认识、观念与制度都不能脱离人的现实活动。",
+        "context": "第八条承接对抽象个人及宗教感情的批评，要求把理论中的神秘问题放回人的实践及对实践的理解中，而不是只在纯思辨内部寻找答案。",
+        "point": "实践不仅是某项操作技能，还涉及社会生活的现实组织；理解实践也不意味着可以取消理论活动。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Theses",
+            "ipa": "ˈθiːsiːz",
+            "language": "en-US",
+            "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/thesis"
+          },
+          {
+            "word": "on",
+            "ipa": "ˈɑn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Feuerbach",
+            "ipa": "ˈfɔɪərˌbɑːk",
+            "language": "en-US",
+            "url": "https://www.collinsdictionary.com/dictionary/english/feuerbach"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-003",
       "zh": "《〈黑格尔法哲学批判〉导言》",
       "en": "A Contribution to the Critique of Hegel's Philosophy of Right: Introduction",
       "definition": "马克思1843年底至1844年初写作的文章，通过宗教批判和政治批判探讨德国现实以及人的解放。",
-      "sentence": "A Contribution to the Critique of Hegel's Philosophy of Right: Introduction connects philosophy with human emancipation.",
-      "translation": "《〈黑格尔法哲学批判〉导言》把哲学同人的解放联系起来。",
+      "sentence": "theory also becomes a material force",
+      "translation": "理论也会成为物质力量",
       "hint": "",
       "source": "马克思《〈黑格尔法哲学批判〉导言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm",
-      "sourceNote": "网页篇名：A Contribution to the Critique of Hegel's Philosophy of Right，Introduction；不与1843年手稿正文混同。 释义及复试练习句为原创。",
+      "sourceNote": "网页篇名：A Contribution to the Critique of Hegel's Philosophy of Right，Introduction；不与1843年手稿正文混同。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "A Contribution to the Critique of Hegel's Philosophy of Right: Introduction connects philosophy with human emancipation.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《〈黑格尔法哲学批判〉导言》",
+        "locator": "篇中关于理论、群众与物质力量的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句指向理论可能取得的现实作用，但其实现须联系群众及其需要，不能理解为观念自动改变世界。",
+        "context": "篇中讨论德国哲学批判如何进入现实变革时，原文先区分批判与物质行动，再说明理论掌握群众的条件，随后把根本批判同人的解放联系起来。",
+        "point": "这是带有条件的论述片段，复习时要补回理论与群众的联系，不能把理论作用夸大为脱离实践的力量。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "A",
+            "ipa": "ˈeɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Contribution",
+            "ipa": "ˌkɑntɹəbˈjuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "to",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Critique",
+            "ipa": "kɹəˈtik",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Hegel's",
+            "ipa": "ˈheɪ.ɡəlz",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/us/pronunciation/english/hegel"
+          },
+          {
+            "word": "Philosophy",
+            "ipa": "fəˈɫɑsəfi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Right",
+            "ipa": "ˈɹaɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Introduction",
+            "ipa": "ˌɪntɹəˈdəkʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-004",
       "zh": "《论犹太人问题》",
       "en": "On the Jewish Question",
       "definition": "马克思1843年写作、1844年发表的文章，区分政治解放与人的解放，考察现代国家和市民社会的关系。",
-      "sentence": "On the Jewish Question distinguishes political rights from the broader social conditions required for human emancipation.",
-      "translation": "《论犹太人问题》区分政治权利与人的解放所需要的更广泛社会条件。",
+      "sentence": "Political emancipation is, of course, a big step forward.",
+      "translation": "政治解放当然是一大进步。",
       "hint": "",
       "source": "马克思《论犹太人问题》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1844/jewish-question/",
-      "sourceNote": "第一部分及篇名；写于1843年，1844年发表。 释义及复试练习句为原创。",
+      "sourceNote": "第一部分及篇名；写于1843年，1844年发表。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "On the Jewish Question distinguishes political rights from the broader social conditions required for human emancipation.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论犹太人问题》",
+        "locator": "第一部分，肯定政治解放并讨论其界限的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1844/jewish-question/",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句明确肯定政治解放的进步意义，因此对它局限的批评不能被读成对政治权利的简单否定。",
+        "context": "第一部分分析国家摆脱宗教后个人仍可能保有宗教及其他束缚，继而承认政治解放的现实进步，并区分它与超出现存秩序的人的解放。",
+        "point": "同时抓住进步性与限度，区分尚未实现充分人的解放和政治解放毫无价值这两种不同判断。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "On",
+            "ipa": "ˈɑn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Jewish",
+            "ipa": "ˈdʒuɪʃ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Question",
+            "ipa": "ˈkwɛstʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-005",
       "zh": "类存在",
       "en": "species-being",
       "definition": "早期马克思用于把握人之社会性和自觉活动的概念，强调人能够把自身生命活动作为意识和实践的对象。",
-      "sentence": "Species-being concerns human capacities for conscious social activity, rather than membership in a biological group alone.",
-      "translation": "类存在涉及人有意识的社会活动能力，而不仅是属于某个生物群体。",
+      "sentence": "Man is a species-being",
+      "translation": "人是类存在物",
       "hint": "",
       "source": "马克思《1844年经济学哲学手稿》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
-      "sourceNote": "第一手稿：Estranged Labour；同一概念另有 alienated labour / labor 译法。 释义及复试练习句为原创。",
+      "sourceNote": "第一手稿：Estranged Labour；同一概念另有 alienated labour / labor 译法。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Species-being concerns human capacities for conscious social activity, rather than membership in a biological group alone.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《1844年经济学哲学手稿》",
+        "locator": "第一手稿·异化劳动，第三个方面的分析",
+        "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把人的存在同其自觉而共同的生命活动联系起来，不能只当作关于生物物种归属的陈述。",
+        "context": "在异化劳动第三个方面的分析中，马克思讨论人与自然的联系，再说明人能够把生命活动作为意志和意识的对象，从而分析类生活如何被异化。",
+        "point": "联系生命活动的自觉性理解类存在，并注意这里讨论的是异化劳动论证中的人而非抽象物种分类。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "species",
+            "ipa": "ˈspiʃiz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "being",
+            "ipa": "ˈbiɪŋ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-006",
       "zh": "异化劳动",
       "en": "estranged labour",
       "definition": "劳动及其产物在一定社会关系下成为支配劳动者的异己力量，早期手稿从多个相互联系的方面分析这一关系。",
-      "sentence": "Estranged labour separates workers from their products and turns their own activity into an external power.",
-      "translation": "异化劳动使工人与其产品分离，并使其自身活动变成外在力量。",
+      "sentence": "It belongs to another",
+      "translation": "它属于另一个人",
       "hint": "",
       "source": "马克思《1844年经济学哲学手稿》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
-      "sourceNote": "第一手稿：Estranged Labour；同一概念另有 alienated labour / labor 译法。 释义及复试练习句为原创。",
+      "sourceNote": "第一手稿：Estranged Labour；同一概念另有 alienated labour / labor 译法。 释义为项目编写。",
       "aliases": [
         "estranged labor",
         "alienated labour",
@@ -7162,87 +7430,253 @@
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Estranged labour separates workers from their products and turns their own activity into an external power.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《1844年经济学哲学手稿》",
+        "locator": "第一手稿·异化劳动，分析劳动活动属于他人的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句中的它指工人的活动，强调劳动异化表现为活动被他人支配，而不只是劳动者主观感觉不快。",
+        "context": "在说明劳动活动外在于工人之后，原文进一步指出这种活动不属于工人自身，并由此把活动的异化同人与他人的现实关系联系起来。",
+        "point": "先辨明代词所指的劳动活动，再把异化联系到支配关系；不能把对象化和一切劳动活动都等同于异化。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "estranged",
+            "ipa": "ɛˈstɹeɪndʒd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "labour",
+            "ipa": "ˈɫeɪbɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-007",
       "zh": "对象性活动",
       "en": "objective activity",
       "definition": "《提纲》强调人的活动本身具有现实的对象性，批判只把客观现实当作静观对象而忽视实践的理解方式。",
-      "sentence": "Objective activity means that human practice engages with a real world, rather than remaining mere contemplation.",
-      "translation": "对象性活动意味着人的实践介入现实世界，而不是停留于单纯静观。",
+      "sentence": "he does not conceive human activity itself as objective activity",
+      "translation": "他并没有把人的活动本身理解为对象性活动",
       "hint": "",
       "source": "马克思《关于费尔巴哈的提纲》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
-      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义及复试练习句为原创。",
+      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Objective activity means that human practice engages with a real world, rather than remaining mere contemplation.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《关于费尔巴哈的提纲》",
+        "locator": "第一条，批评费尔巴哈对人的活动的理解",
+        "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句批评费尔巴哈对人的现实活动理解不足，否定词针对其理论局限，而非否认活动的对象性。",
+        "context": "第一条先批评旧唯物主义把现实只当作静观对象，再指出费尔巴哈虽要求感性对象，却没有把人的活动本身理解为对象性活动。",
+        "point": "句中的他指费尔巴哈，应区分作者对这一局限的批评与被批评的观点，不能倒读为马克思否定对象性活动。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "objective",
+            "ipa": "əbˈdʒɛktɪv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "activity",
+            "ipa": "ækˈtɪvəti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-008",
       "zh": "革命的实践",
       "en": "revolutionary practice",
       "definition": "《提纲》把环境的改变与人的自我改变相统一来理解，强调现实变革和人的活动之间的辩证联系。",
-      "sentence": "Revolutionary practice joins the transformation of social circumstances with people's own development through collective action.",
-      "translation": "革命的实践把社会环境的改造同人们在集体行动中的自身发展结合起来。",
+      "sentence": "it is essential to educate the educator himself",
+      "translation": "教育者本人也必须受到教育",
       "hint": "",
       "source": "马克思《关于费尔巴哈的提纲》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
-      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义及复试练习句为原创。",
+      "sourceNote": "篇名与第一、三条；所链为经恩格斯略作编辑的文本版本。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Revolutionary practice joins the transformation of social circumstances with people's own development through collective action.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《关于费尔巴哈的提纲》",
+        "locator": "第三条",
+        "url": "https://www.marxists.org/archive/marx/works/1845/theses/theses.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句提醒改造他人的主体同样处于社会条件中，教育和环境改变不能被设想为不对称的单向过程。",
+        "context": "第三条回应环境与教育塑造人的学说，指出如果忘记人也改变环境，就会把社会分成高居其上的教育者与被教育者，遗漏教育者的自身改变。",
+        "point": "教育者不能被预设为不受社会关系制约的例外，环境的改变必须同人的活动及自我改变一并理解。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "revolutionary",
+            "ipa": "ˌɹɛvəˈɫuʃəˌnɛɹi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "practice",
+            "ipa": "ˈpɹæktəs",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-009",
       "zh": "人的解放",
       "en": "human emancipation",
       "definition": "《论犹太人问题》把人的解放同政治解放区别开来，关注个人力量如何成为人自觉组织的社会力量。",
-      "sentence": "Human emancipation requires changing social relations that continue to limit freedom beyond formal political equality.",
-      "translation": "人的解放要求改变那些在形式政治平等之外仍然限制自由的社会关系。",
+      "sentence": "recognized and organized his “own powers” as social powers",
+      "translation": "把自己的力量认识并组织为社会力量",
       "hint": "",
       "source": "马克思《论犹太人问题》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1844/jewish-question/",
-      "sourceNote": "第一部分及篇名；写于1843年，1844年发表。 释义及复试练习句为原创。",
+      "sourceNote": "第一部分及篇名；写于1843年，1844年发表。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Human emancipation requires changing social relations that continue to limit freedom beyond formal political equality.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论犹太人问题》",
+        "locator": "第一部分结尾，关于人的解放完成条件的长句",
+        "url": "https://www.marxists.org/archive/marx/works/1844/jewish-question/",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把人的解放联系到个人自觉组织共同力量，强调克服个人同其社会力量相分离的状态。",
+        "context": "第一部分结尾从政治解放造成的私人个人与抽象公民的分离出发，说明人的解放何以要求现实个人在日常生活、劳动和社会联系中发生改变。",
+        "point": "这段没有把个体交给抽象集体吞没，而是追问个人如何不再同自身形成的社会力量相分离。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "human",
+            "ipa": "ˈhjumən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "emancipation",
+            "ipa": "ɪˌmænsəˈpeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-010",
       "zh": "宗教批判",
       "en": "criticism of religion",
       "definition": "《导言》从宗教现象追溯现实社会条件，把对宗教观念的批判进一步引向对世俗生活与政治关系的考察。",
-      "sentence": "Criticism of religion leads Marx to examine the social conditions that generate suffering and religious consolation.",
-      "translation": "宗教批判引导马克思考察产生苦难和宗教慰藉的社会条件。",
+      "sentence": "Man makes religion, religion does not make man.",
+      "translation": "人创造宗教，宗教不创造人。",
       "hint": "",
       "source": "马克思《〈黑格尔法哲学批判〉导言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm",
-      "sourceNote": "网页篇名：A Contribution to the Critique of Hegel's Philosophy of Right，Introduction；不与1843年手稿正文混同。 释义及复试练习句为原创。",
+      "sourceNote": "网页篇名：A Contribution to the Critique of Hegel's Philosophy of Right，Introduction；不与1843年手稿正文混同。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-01"
+      "groupId": "cl-01",
+      "quizSentence": "Criticism of religion leads Marx to examine the social conditions that generate suffering and religious consolation.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《〈黑格尔法哲学批判〉导言》",
+        "locator": "篇首，关于宗教批判基础的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把宗教放回人的生活世界来解释，所指的人也须通过其国家和社会关系而非孤立个体理解。",
+        "context": "篇首提出宗教批判的出发点后，紧接着说明人不是脱离世界的抽象存在，并把宗教现象同现实社会的颠倒和苦难联系起来。",
+        "point": "从宗教观念追溯现实人的社会世界，不把这段话理解为所有宗教现象都只是个人任意编造。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "criticism",
+            "ipa": "ˈkɹɪtɪˌsɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "religion",
+            "ipa": "ɹiˈɫɪdʒən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-011",
       "zh": "《资本论》",
       "en": "Capital: A Critique of Political Economy",
       "definition": "马克思系统批判资本主义生产方式的主要经济学著作，三卷分别重点考察生产过程、流通过程和总体运动。",
-      "sentence": "Capital: A Critique of Political Economy studies capitalist production and the social relations behind economic appearances.",
-      "translation": "《资本论》研究资本主义生产以及经济表象背后的社会关系。",
+      "sentence": "capital is not a thing",
+      "translation": "资本不是一个物",
       "hint": "",
       "source": "马克思《资本论》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1867-c1/",
-      "sourceNote": "第一卷首页及版本信息：Samuel Moore、Edward Aveling译，恩格斯编辑；主标题 Capital，副标题 A Critique of Political Economy。 释义及复试练习句为原创。",
+      "sourceNote": "第一卷首页及版本信息：Samuel Moore、Edward Aveling译，恩格斯编辑；主标题 Capital，副标题 A Critique of Political Economy。 释义为项目编写。",
       "aliases": [
         "Capital",
         "Das Kapital"
@@ -7250,180 +7684,632 @@
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Capital: A Critique of Political Economy studies capitalist production and the social relations behind economic appearances.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《资本论》第三卷",
+        "locator": "第三卷第四十八章第一部分，资本与生产关系的区分",
+        "url": "https://www.marxists.org/archive/marx/works/1894-c3/ch48.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句反对把资本还原为机器或钱财，强调物取得资本性质必须放到特定社会生产关系中说明。",
+        "context": "第三卷第四十八章批判把资本、土地和劳动分别当作独立收入源泉的三位一体公式，开头即区分物质生产资料与使其成为资本的社会关系。",
+        "point": "区分资本的物质承担者与资本关系，机器等物的存在本身并不能证明资本关系在任何社会都相同。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Capital",
+            "ipa": "ˈkæpətəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "A",
+            "ipa": "ˈeɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Critique",
+            "ipa": "kɹəˈtik",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Political",
+            "ipa": "pəˈɫɪtəkəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Economy",
+            "ipa": "iˈkɑnəmi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-012",
       "zh": "《政治经济学批判》",
       "en": "A Contribution to the Critique of Political Economy",
       "definition": "马克思1859年发表的经济学著作，集中讨论商品和货币，其研究为后来《资本论》的展开提供重要基础。",
-      "sentence": "A Contribution to the Critique of Political Economy examines commodities and money within a critical economic framework.",
-      "translation": "《政治经济学批判》在批判性的经济学框架中考察商品与货币。",
+      "sentence": "Every commodity, however, has a twofold aspect",
+      "translation": "然而，每一种商品都有双重方面",
       "hint": "",
       "source": "马克思《政治经济学批判》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/",
-      "sourceNote": "首页与目录：S. W. Ryazanskaya译；英文书名包含 A Contribution to。 释义及复试练习句为原创。",
+      "sourceNote": "首页与目录：S. W. Ryazanskaya译；英文书名包含 A Contribution to。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "A Contribution to the Critique of Political Economy examines commodities and money within a critical economic framework.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《政治经济学批判》",
+        "locator": "第一章·商品，开头关于商品两重方面的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句提示商品分析需要区分它的有用性质与交换关系，不能只从满足需要的一面理解商品。",
+        "context": "第一章开头从资产阶级社会的财富表现为商品积累入手，随即提出商品的使用价值与交换价值两方面，并说明用途本身并不揭示社会生产关系。",
+        "point": "注意此处1859年文本采用使用价值与交换价值的表述，阅读时不要不加说明地混同所有版本的概念层次。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "A",
+            "ipa": "ˈeɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Contribution",
+            "ipa": "ˌkɑntɹəbˈjuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "to",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Critique",
+            "ipa": "kɹəˈtik",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Political",
+            "ipa": "pəˈɫɪtəkəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Economy",
+            "ipa": "iˈkɑnəmi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-013",
       "zh": "《〈政治经济学批判〉序言》",
       "en": "Preface to A Contribution to the Critique of Political Economy",
       "definition": "马克思1859年为该书撰写的序言，概括其研究道路，并集中阐述生产力、生产关系以及社会意识的关系。",
-      "sentence": "Preface to A Contribution to the Critique of Political Economy outlines Marx's guiding view of social development.",
-      "translation": "《〈政治经济学批判〉序言》概述马克思关于社会发展的指导性观点。",
+      "sentence": "their social existence that determines their consciousness",
+      "translation": "决定他们意识的，是他们的社会存在",
       "hint": "",
       "source": "马克思《〈政治经济学批判〉序言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
-      "sourceNote": "1859年序言；英文通常以 Preface 加所属书名标识，非另一本独立著作。 释义及复试练习句为原创。",
+      "sourceNote": "1859年序言；英文通常以 Preface 加所属书名标识，非另一本独立著作。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Preface to A Contribution to the Critique of Political Economy outlines Marx's guiding view of social development.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《〈政治经济学批判〉序言》",
+        "locator": "唯物史观的集中概述，社会存在与意识的关系",
+        "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把意识的形成放到现实社会生活中说明，提示思想史和制度史都不能只在观念内部寻找解释。",
+        "context": "序言在回顾研究经历后，先说明生产关系及经济结构，再论述物质生活生产对社会政治和精神生活的制约，随后转向生产力与生产关系的冲突。",
+        "point": "社会存在不是某个人一时的经济处境，须结合社会生产及其关系理解，不把它缩成个人逐利心理。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Preface",
+            "ipa": "ˈpɹɛfəs",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "to",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "A",
+            "ipa": "ˈeɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Contribution",
+            "ipa": "ˌkɑntɹəbˈjuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "to",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Critique",
+            "ipa": "kɹəˈtik",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Political",
+            "ipa": "pəˈɫɪtəkəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Economy",
+            "ipa": "iˈkɑnəmi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-014",
       "zh": "《1857—1858年经济学手稿》",
       "en": "Grundrisse",
       "definition": "马克思为政治经济学批判准备的研究手稿，英译常保留德文简称，涉及货币、资本、生产与人的发展等问题。",
-      "sentence": "Grundrisse explores money, capital, and social development in research notes that were not prepared as a finished book.",
-      "translation": "《1857—1858年经济学手稿》在并未整理成定稿著作的研究笔记中探讨货币、资本和社会发展。",
+      "sentence": "Individuals producing in society",
+      "translation": "在社会中从事生产的个人",
       "hint": "",
       "source": "马克思《1857—1858年经济学手稿》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1857/grundrisse/",
-      "sourceNote": "Martin Nicolaus译，Penguin / New Left Review 1973；常以德文简称 Grundrisse，副标题 Foundations of the Critique of Political Economy (Rough Draft)。 释义及复试练习句为原创。",
+      "sourceNote": "Martin Nicolaus译，Penguin / New Left Review 1973；常以德文简称 Grundrisse，副标题 Foundations of the Critique of Political Economy (Rough Draft)。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Grundrisse explores money, capital, and social development in research notes that were not prepared as a finished book.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《1857—1858年经济学手稿》",
+        "locator": "《导言》第一节·生产，开头",
+        "url": "https://www.marxists.org/archive/marx/works/1857/grundrisse/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把经济研究的出发点规定为社会中的生产个人，反对把个人先设想成天然孤立的存在。",
+        "context": "《导言》第一节提出社会地规定的个人生产，随即批评古典经济学借孤立猎人和渔夫建立起点的设想，并把这种形象联系到近代市民社会。",
+        "point": "从个人出发不等于从无社会联系的个人出发，应把个体活动和其形成的社会历史条件一起分析。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Grundrisse",
+            "ipa": "ˈɡʁʊntˌʁɪsə",
+            "language": "de",
+            "url": "https://de.wiktionary.org/wiki/Grundrisse"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-015",
       "zh": "《哥达纲领批判》",
       "en": "Critique of the Gotha Programme",
       "definition": "马克思1875年对德国工人政党纲领草案的批判，讨论劳动、分配、国家以及共产主义社会的发展阶段。",
-      "sentence": "Critique of the Gotha Programme examines distribution and distinguishes different phases in the development of communist society.",
-      "translation": "《哥达纲领批判》考察分配，并区分共产主义社会发展的不同阶段。",
+      "sentence": "Right can never be higher than the economic structure",
+      "translation": "权利决不能高于经济结构",
       "hint": "",
       "source": "马克思《哥达纲领批判》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1875/gotha/",
-      "sourceNote": "首页与版本说明：Critique of the Gotha Programme；Programme 为此版英式拼写。 释义及复试练习句为原创。",
+      "sourceNote": "首页与版本说明：Critique of the Gotha Programme；Programme 为此版英式拼写。 释义为项目编写。",
       "aliases": [
         "Critique of the Gotha Program"
       ],
       "entryType": "work",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Critique of the Gotha Programme examines distribution and distinguishes different phases in the development of communist society.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《哥达纲领批判》",
+        "locator": "第一部分，初级阶段的平等权利与更高阶段的条件",
+        "url": "https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句提示权利和分配原则受现实社会条件限制，不能用脱离生产发展程度的公平观念直接规定。",
+        "context": "第一部分先说明按同一劳动尺度分配仍会因个人能力和家庭条件不同而产生差别，随后区分共产主义初级阶段与更高阶段的社会条件。",
+        "point": "理解本句须补回社会文化发展等后文条件；它不是在说现实法律制度无需批评或永远不能改变。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Critique",
+            "ipa": "kɹəˈtik",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Gotha",
+            "ipa": "ˈɡoʊ.t̬ə",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/pronunciation/english/gotha"
+          },
+          {
+            "word": "Programme",
+            "ipa": "ˈpɹoʊˌɡɹæm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-016",
       "zh": "商品形式",
       "en": "commodity form",
       "definition": "产品作为商品而取得的特定社会形式，分析它有助于揭示交换价值及物的关系背后生产者之间的社会关系。",
-      "sentence": "The commodity form expresses historically specific social relations, rather than a natural property of every useful object.",
-      "translation": "商品形式表现历史上特定的社会关系，而不是每一件有用物品的自然属性。",
+      "sentence": "social relations between things",
+      "translation": "物与物之间的社会关系",
       "hint": "",
       "source": "马克思《资本论》第一卷英文版",
       "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm",
-      "sourceNote": "第一章第3节：The Form of Value or Exchange-Value。 释义及复试练习句为原创。",
+      "sourceNote": "第一章第3节：The Form of Value or Exchange-Value。 释义为项目编写。",
       "aliases": [
         "commodity-form"
       ],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "The commodity form expresses historically specific social relations, rather than a natural property of every useful object.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《资本论》第一卷",
+        "locator": "第一卷第一章第四节，私人劳动经交换显现社会联系",
+        "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句描述商品关系中人的社会联系所取得的物化表现，不能把这种表现当作物天然具有的属性。",
+        "context": "第一卷第一章第四节解释独立私人劳动通过产品交换才显现社会联系，因而生产者之间的关系以产品彼此关联的形式呈现出来。",
+        "point": "既辨认这种表现的客观社会条件，也追问其背后人的关系，不把商品拜物教只理解为个人迷信商品。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "commodity",
+            "ipa": "kəˈmɑdəti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "form",
+            "ipa": "ˈfɔɹm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-017",
       "zh": "货币资本循环",
       "en": "circuit of money capital",
       "definition": "资本以货币形式出发，经过购买生产要素、生产和出售商品而回到增殖后货币形式的运动过程。",
-      "sentence": "The circuit of money capital passes through purchase, production, and sale before returning to the money form.",
-      "translation": "货币资本循环经过购买、生产和出售，随后回到货币形式。",
+      "sentence": "his money is transformed into commodities",
+      "translation": "他的货币转化为商品",
       "hint": "",
       "source": "马克思《资本论》第二卷英文版",
       "url": "https://www.marxists.org/archive/marx/works/1885-c2/ch01.htm",
-      "sourceNote": "第一章：The Circuit of Money-Capital。 释义及复试练习句为原创。",
+      "sourceNote": "第一章：The Circuit of Money-Capital。 释义为项目编写。",
       "aliases": [
         "circuit of money-capital"
       ],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "The circuit of money capital passes through purchase, production, and sale before returning to the money form.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《资本论》第二卷",
+        "locator": "第二卷第一章开头，第一阶段",
+        "url": "https://www.marxists.org/archive/marx/works/1885-c2/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句描述资本循环的购买阶段，货币须取得特定生产要素而非仅仅换到任意消费品。",
+        "context": "第二卷第一章把资本循环分为三个阶段，首先说明资本家作为购买者取得劳动力和生产资料，随后才进入生产并通过商品出售回到货币形式。",
+        "point": "这里的他指资本家，货币变为商品只是循环开端；须继续考察生产阶段才能说明剩余价值的形成。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "circuit",
+            "ipa": "ˈsɝkət",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "money",
+            "ipa": "ˈməni",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "capital",
+            "ipa": "ˈkæpətəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-018",
       "zh": "一般智力",
       "en": "general intellect",
       "definition": "《经济学手稿》中用于讨论一般社会知识及其生产力量的概念，不能直接等同于某种单一机器或技术。",
-      "sentence": "The general intellect concerns social knowledge and its growing role in the organization of production.",
-      "translation": "一般智力涉及社会知识以及它在生产组织中日益增长的作用。",
+      "sentence": "the power of knowledge, objectified.",
+      "translation": "对象化了的知识力量。",
       "hint": "",
       "source": "马克思《1857—1858年经济学手稿》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm",
-      "sourceNote": "Notebook VII，机器体系与一般社会知识的论述。 释义及复试练习句为原创。",
+      "sourceNote": "Notebook VII，机器体系与一般社会知识的论述。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "The general intellect concerns social knowledge and its growing role in the organization of production.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《1857—1858年经济学手稿》",
+        "locator": "笔记第七册，机器与一般社会知识成为生产力的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把机器中的能力理解为社会知识取得物质形式的结果，提醒技术力量不能脱离人的社会活动来解释。",
+        "context": "笔记第七册先指出机器并非自然自行生成，而是人的工业活动的产品，继而把固定资本的发展同一般社会知识成为直接生产力联系起来。",
+        "point": "对象化指知识取得客观形式，不自动等于劳动异化；还须考察这种生产力量由谁占有和支配。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "general",
+            "ipa": "ˈdʒɛnɝəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "intellect",
+            "ipa": "ˈɪnəˌɫɛkt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-019",
       "zh": "生产劳动",
       "en": "productive labour",
       "definition": "《资本论》在资本主义社会关系中将其具体规定为生产剩余价值的劳动，不能仅按是否制造物品来判定。",
-      "sentence": "Productive labour has a specific meaning under capitalism because it produces surplus value for capital.",
-      "translation": "生产劳动在资本主义条件下具有特定含义，因为它为资本生产剩余价值。",
+      "sentence": "He must produce surplus-value.",
+      "translation": "他必须生产剩余价值。",
       "hint": "",
       "source": "马克思《资本论》第一卷英文版",
       "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch16.htm",
-      "sourceNote": "第十六章开头：资本主义条件下的生产劳动。 释义及复试练习句为原创。",
+      "sourceNote": "第十六章开头：资本主义条件下的生产劳动。 释义为项目编写。",
       "aliases": [
         "productive labor"
       ],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Productive labour has a specific meaning under capitalism because it produces surplus value for capital.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《资本论》第一卷",
+        "locator": "第一卷第十六章，生产劳动的资本主义规定",
+        "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch16.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句中的必须说明资本主义生产劳动的特定条件，而非作者要求一切劳动都为资本创造收益。",
+        "context": "第十六章从一般劳动过程的生产劳动转向资本主义关系，指出仅生产有用产品尚不足以成为资本主义意义的生产劳动，还须为资本增殖服务。",
+        "point": "区分一般有用劳动与资本主义生产劳动的社会规定，并把句中的他理解为该关系中的劳动者。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "productive",
+            "ipa": "pɝˈdəktɪv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "labour",
+            "ipa": "ˈɫeɪbɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-020",
       "zh": "联合的生产者",
       "en": "associated producers",
       "definition": "《资本论》第三卷讨论共同调节人与自然物质变换时使用的表达，指生产者以联合方式自觉组织社会生产。",
-      "sentence": "Associated producers can consciously regulate their shared production instead of submitting blindly to independent economic forces.",
-      "translation": "联合的生产者能够自觉调节共同生产，而不是盲目服从独立的经济力量。",
+      "sentence": "under their common control",
+      "translation": "置于他们的共同控制之下",
       "hint": "",
       "source": "马克思《资本论》第三卷英文版",
       "url": "https://www.marxists.org/archive/marx/works/1894-c3/ch48.htm",
-      "sourceNote": "第四十八章末尾：联合的生产者共同调节与自然的物质变换。 释义及复试练习句为原创。",
+      "sourceNote": "第四十八章末尾：联合的生产者共同调节与自然的物质变换。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思",
       "category": "cl",
-      "groupId": "cl-02"
+      "groupId": "cl-02",
+      "quizSentence": "Associated producers can consciously regulate their shared production instead of submitting blindly to independent economic forces.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《资本论》第三卷",
+        "locator": "第三卷第四十八章，联合生产者调节与自然的物质变换",
+        "url": "https://www.marxists.org/archive/marx/works/1894-c3/ch48.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句强调联合生产者自觉调节与自然的物质变换，关键在于共同组织而非任由盲目力量支配。",
+        "context": "第三卷第四十八章讨论必要物质生产中的自由，说明联合生产者能够理性调节同自然的联系，同时明确这一领域仍以物质必然性为基础。",
+        "point": "共同控制不意味着可以取消自然约束，也不能与超出必要生产的、以人的发展为目的的自由领域混同。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "associated",
+            "ipa": "əˈsoʊsiˌeɪtɪd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "producers",
+            "ipa": "pɹəˈdusɝz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-021",
       "zh": "《共产党宣言》",
       "en": "Manifesto of the Communist Party",
       "definition": "马克思和恩格斯1848年发表的纲领性文献，分析资本主义发展、无产阶级运动以及共产党人的立场和任务。",
-      "sentence": "Manifesto of the Communist Party presents a historical account of capitalism and the aims of communist politics.",
-      "translation": "《共产党宣言》从历史角度说明资本主义以及共产主义政治的目标。",
+      "sentence": "the history of class struggles",
+      "translation": "阶级斗争的历史",
       "hint": "",
       "source": "马克思、恩格斯《共产党宣言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
-      "sourceNote": "首页英文标题 Manifesto of the Communist Party；常用简称 The Communist Manifesto。 释义及复试练习句为原创。",
+      "sourceNote": "首页英文标题 Manifesto of the Communist Party；常用简称 The Communist Manifesto。 释义为项目编写。",
       "aliases": [
         "The Communist Manifesto",
         "Communist Manifesto"
@@ -7431,172 +8317,534 @@
       "entryType": "work",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "Manifesto of the Communist Party presents a historical account of capitalism and the aims of communist politics.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《共产党宣言》",
+        "locator": "第一章开头及相关历史范围脚注",
+        "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句提示《宣言》通过阶级关系及其冲突把握社会历史，而不是只罗列人物和事件的先后顺序。",
+        "context": "第一章开头提出历史与阶级斗争的联系，随即列举不同社会中的对立阶级，再转入资产阶级时代的特殊结构；该版本脚注还说明了历史范围。",
+        "point": "把这一概括放回阶级社会的历史分析中，不要脱离原文脚注而推成所有人类共同生活都天然存在阶级。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Manifesto",
+            "ipa": "ˌmænəˈfɛsˌtoʊ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Communist",
+            "ipa": "ˈkɑmjənəst",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Party",
+            "ipa": "ˈpɑɹti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-022",
       "zh": "《德意志意识形态》",
       "en": "The German Ideology",
       "definition": "马克思和恩格斯1845至1846年写作的手稿，通过批判青年黑格尔派思想阐发从现实生活出发的历史观。",
-      "sentence": "The German Ideology develops a materialist approach to history by examining real individuals and their practical activities.",
-      "translation": "《德意志意识形态》通过考察现实个人及其实践活动发展了唯物主义的历史研究方法。",
+      "sentence": "to produce their means of subsistence",
+      "translation": "生产他们的生活资料",
       "hint": "",
       "source": "马克思、恩格斯《德意志意识形态》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/",
-      "sourceNote": "首页与目录；马克思、恩格斯1845—1846年手稿，完整文本后来出版。 释义及复试练习句为原创。",
+      "sourceNote": "首页与目录；马克思、恩格斯1845—1846年手稿，完整文本后来出版。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "The German Ideology develops a materialist approach to history by examining real individuals and their practical activities.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《德意志意识形态》",
+        "locator": "第一章A，现实个人与生活资料生产",
+        "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把生产生活资料作为理解人的历史活动的切入点，提示社会生活不是观念自行展开的结果。",
+        "context": "第一章在批评以观念解释人的束缚后，从活生生的个人出发讨论其身体条件与自然联系，随即说明人在生产生活资料时也生产自身物质生活。",
+        "point": "生活资料的生产不只是获取食物，还须考察生产如何进行及个人由此形成的社会联系。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "German",
+            "ipa": "ˈdʒɝmən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Ideology",
+            "ipa": "ˌaɪdiˈɑɫədʒi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-023",
       "zh": "《神圣家族》",
       "en": "The Holy Family",
       "definition": "马克思和恩格斯合著的早期论战著作，批判鲍威尔兄弟及其追随者的思辨立场，关注现实人的活动。",
-      "sentence": "The Holy Family criticizes speculative philosophy for separating abstract criticism from real people and their social struggles.",
-      "translation": "《神圣家族》批判思辨哲学把抽象批判同现实的人及其社会斗争分离开来。",
+      "sentence": "the real individual man",
+      "translation": "现实的个人",
       "hint": "",
       "source": "马克思、恩格斯《神圣家族》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/holy-family/",
-      "sourceNote": "Richard Dixon译，Foreign Languages Publishing House 1956；副标题 Critique of Critical Criticism。 释义及复试练习句为原创。",
+      "sourceNote": "Richard Dixon译，Foreign Languages Publishing House 1956；副标题 Critique of Critical Criticism。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "The Holy Family criticizes speculative philosophy for separating abstract criticism from real people and their social struggles.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《神圣家族》",
+        "locator": "前言开头，批评以精神代替现实个人",
+        "url": "https://www.marxists.org/archive/marx/works/1845/holy-family/ch00.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句所指的是论战中被思辨概念替代的现实的人，提示人的社会生活不能化约为精神的自我运动。",
+        "context": "《神圣家族》前言开头批评思辨唯心主义以自我意识或精神代替现实个人，继而把鲍威尔派的批判作为这种思辨方式的突出表现。",
+        "point": "理解这个片段要保留其反对抽象替代的论战语境，不能把它读成现实个人与全部思想活动的对立。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Holy",
+            "ipa": "ˈhoʊɫi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Family",
+            "ipa": "ˈfæməɫi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-024",
       "zh": "现实的个人",
       "en": "real individuals",
       "definition": "《德意志意识形态》历史研究的出发点，指处于一定物质生活条件中、从事现实活动的个人，而非抽象人。",
-      "sentence": "Real individuals live under definite material conditions and transform their circumstances through practical social activity.",
-      "translation": "现实的个人生活于一定物质条件下，并通过社会实践活动改变其环境。",
+      "sentence": "real individuals",
+      "translation": "现实的个人",
       "hint": "",
       "source": "马克思、恩格斯《德意志意识形态》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
-      "sourceNote": "第一章A：Idealism and Materialism，现实个人与物质生活。 释义及复试练习句为原创。",
+      "sourceNote": "第一章A：Idealism and Materialism，现实个人与物质生活。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "Real individuals live under definite material conditions and transform their circumstances through practical social activity.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《德意志意识形态》",
+        "locator": "第一章A，唯物主义方法的首要前提",
+        "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句指向能够在经验中确认的历史行动者，强调其活动与既有物质条件应同时进入研究。",
+        "context": "第一章说明研究前提并非任意设定的教条，而是现实个人、其活动和生活条件，其中既包括继承来的条件，也包括由自身活动形成的条件。",
+        "point": "个人与条件须结合理解，既不能把人当成环境的被动产物，也不能设想个人完全不受既有条件制约。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "real",
+            "ipa": "ˈɹiɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "individuals",
+            "ipa": "ˌɪndəˈvɪdʒəwəɫz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-025",
       "zh": "统治思想",
       "en": "ruling ideas",
       "definition": "《德意志意识形态》把一定时代居统治地位的观念同占支配地位的物质关系及精神生产条件联系起来。",
-      "sentence": "Ruling ideas must be understood through the dominant social relations and the organization of intellectual production.",
-      "translation": "统治思想必须通过占支配地位的社会关系以及精神生产的组织来理解。",
+      "sentence": "ruling intellectual force",
+      "translation": "起统治作用的精神力量",
       "hint": "",
       "source": "马克思、恩格斯《德意志意识形态》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
-      "sourceNote": "第一章B：The Illusion of the Epoch，统治思想等问题。 释义及复试练习句为原创。",
+      "sourceNote": "第一章B：The Illusion of the Epoch，统治思想等问题。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "Ruling ideas must be understood through the dominant social relations and the organization of intellectual production.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《德意志意识形态》",
+        "locator": "第一章B，统治阶级与统治思想",
+        "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说明物质上的支配关系也会进入精神生产领域，因此思想影响力需要联系其社会生产条件。",
+        "context": "统治阶级与统治思想的小节把物质生产手段和精神生产手段的控制联系起来，继而说明占支配地位的关系如何取得观念表现。",
+        "point": "这里不是把每个思想者都等同于直接掌权者，而是考察观念生产、传播与社会支配关系的联系。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "ruling",
+            "ipa": "ˈɹuɫɪŋ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "ideas",
+            "ipa": "aɪˈdiəz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-026",
       "zh": "唯物史观",
       "en": "materialist conception of history",
       "definition": "从物质生活生产和现实社会交往出发说明历史及观念形成的历史观，强调社会各方面之间的相互作用。",
-      "sentence": "The materialist conception of history explains ideas through social life instead of deriving history from abstract concepts.",
-      "translation": "唯物史观通过社会生活解释观念，而不是从抽象概念推导历史。",
+      "sentence": "explains the formation of ideas from material practice",
+      "translation": "从物质实践说明观念的形成",
       "hint": "",
       "source": "马克思、恩格斯《德意志意识形态》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
-      "sourceNote": "第一章B：The Illusion of the Epoch，统治思想等问题。 释义及复试练习句为原创。",
+      "sourceNote": "第一章B：The Illusion of the Epoch，统治思想等问题。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "The materialist conception of history explains ideas through social life instead of deriving history from abstract concepts.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《德意志意识形态》",
+        "locator": "第一章B，第七小节·唯物史观的概括",
+        "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说明解释方向是由现实生活追问思想的形成，而非先设定观念再把现实当作它的展开。",
+        "context": "第七小节概括唯物史观，先从物质生产和交往解释国家及意识形式，再以这一片段同唯心主义解释作区分，并要求考察各方面的相互作用。",
+        "point": "思想的形成有现实前提，但这不等于思想只是无作用的附属物，须同原文的整体关系分析一起理解。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "materialist",
+            "ipa": "məˈtɪɹiəɫɪst",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "conception",
+            "ipa": "kənˈsɛpʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "history",
+            "ipa": "ˈhɪstɝi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-027",
       "zh": "无产阶级运动",
       "en": "proletarian movement",
       "definition": "《宣言》讨论工人阶级为自身解放开展的历史运动，强调共产党人与整个运动的共同利益相联系。",
-      "sentence": "The proletarian movement develops through collective struggles shaped by changing economic conditions and political organization.",
-      "translation": "无产阶级运动通过由变化着的经济条件和政治组织塑造的集体斗争发展。",
+      "sentence": "They have no interests separate and apart from those of the proletariat as a whole.",
+      "translation": "他们没有同整个无产阶级的利益相分离的利益。",
       "hint": "",
       "source": "马克思、恩格斯《共产党宣言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm",
-      "sourceNote": "第二章：Proletarians and Communists。 释义及复试练习句为原创。",
+      "sourceNote": "第二章：Proletarians and Communists。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "The proletarian movement develops through collective struggles shaped by changing economic conditions and political organization.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《共产党宣言》",
+        "locator": "第二章开头，共产党人与无产阶级整体的关系",
+        "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句中的他们指共产党人，强调组织的立场须联系整个阶级的共同利益，而非形成独立宗派利益。",
+        "context": "第二章开头先追问共产党人与无产阶级整体的关系，否定分离利益和特殊宗派原则，随后讨论跨民族斗争中的共同利益及理论认识。",
+        "point": "把组织与整个运动的关系放在中心，不能把这句话理解为否认组织需要或抹去理论与政治任务。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "proletarian",
+            "ipa": "ˌproʊ.ləˈter.i.ən",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/proletarian"
+          },
+          {
+            "word": "movement",
+            "ipa": "ˈmuvmənt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-028",
       "zh": "世界文学",
       "en": "world literature",
       "definition": "《宣言》在世界市场形成的背景下讨论精神产品跨越民族界限的趋势，并非简单罗列各国文学作品。",
-      "sentence": "World literature emerges as intellectual production moves beyond national isolation and enters broader networks of exchange.",
-      "translation": "当精神生产超越民族隔绝并进入更广泛的交流网络时，世界文学形成了。",
+      "sentence": "there arises a world literature.",
+      "translation": "由此产生了世界文学。",
       "hint": "",
       "source": "马克思、恩格斯《共产党宣言》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
-      "sourceNote": "第一章：Bourgeois and Proletarians，世界市场与世界文学。 释义及复试练习句为原创。",
+      "sourceNote": "第一章：Bourgeois and Proletarians，世界市场与世界文学。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "World literature emerges as intellectual production moves beyond national isolation and enters broader networks of exchange.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《共产党宣言》",
+        "locator": "第一章，世界市场与精神生产的跨民族联系",
+        "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句把世界文学的形成放在跨民族交往中说明，精神产品的传播因而与世界市场的扩展相联系。",
+        "context": "第一章在讨论生产和消费超出民族范围之后，把这种联系扩展到精神生产，描述民族和地方文学在普遍交往中形成新的世界性联系。",
+        "point": "这里说明文化联系发展的历史条件，并非宣称民族文学已经消失或给出一份世界名著目录。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "world",
+            "ipa": "ˈwɝɫd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "literature",
+            "ipa": "ˈɫɪtɝətʃɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-029",
       "zh": "批判的批判",
       "en": "critical criticism",
       "definition": "《神圣家族》对鲍威尔派思想的论战性称呼，针对把抽象批判置于现实群众和历史活动之上的立场。",
-      "sentence": "Critical criticism is a polemical term targeting approaches that elevate abstract thought above real social activity.",
-      "translation": "批判的批判是一个论战性术语，针对把抽象思维置于现实社会活动之上的方法。",
+      "sentence": "transforming \"criticism\" itself into a transcendent power.",
+      "translation": "把批判本身变为一种超越现实的力量。",
       "hint": "",
       "source": "马克思、恩格斯《神圣家族》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/holy-family/ch00.htm",
-      "sourceNote": "Foreword：对德国思辨哲学及鲍威尔派批判观的论战。 释义及复试练习句为原创。",
+      "sourceNote": "Foreword：对德国思辨哲学及鲍威尔派批判观的论战。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "Critical criticism is a polemical term targeting approaches that elevate abstract thought above real social activity.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《神圣家族》",
+        "locator": "前言，说明鲍威尔派如何夸大批判的地位",
+        "url": "https://www.marxists.org/archive/marx/works/1845/holy-family/ch00.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句批评把思想批判本身抬到现实之上，问题在于批判与现实个人及其社会活动相分离。",
+        "context": "前言在反对用精神代替现实个人后，紧接着以这一片段说明鲍威尔派批判如何夸大自身地位，再交代全书具体针对的刊物与论战对象。",
+        "point": "引号中的批判是特定论战对象，不能由此推成一切理论批判都无现实意义或必须被放弃。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "critical",
+            "ipa": "ˈkɹɪtɪkəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "criticism",
+            "ipa": "ˈkɹɪtɪˌsɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-030",
       "zh": "共产主义革命",
       "en": "communist revolution",
       "definition": "《德意志意识形态》把这一变革同物质条件、交往发展和个人解放相联系，而非仅仅当作观念的替换。",
-      "sentence": "Communist revolution requires material and social conditions, rather than the replacement of one set of ideas alone.",
-      "translation": "共产主义革命需要物质和社会条件，而不只是用一套观念替换另一套观念。",
+      "sentence": "want is merely made general",
+      "translation": "匮乏只是被普遍化了",
       "hint": "",
       "source": "马克思、恩格斯《德意志意识形态》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
-      "sourceNote": "第一章A：Idealism and Materialism，现实个人与物质生活。 释义及复试练习句为原创。",
+      "sourceNote": "第一章A：Idealism and Materialism，现实个人与物质生活。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "马克思、恩格斯",
       "category": "cl",
-      "groupId": "cl-03"
+      "groupId": "cl-03",
+      "quizSentence": "Communist revolution requires material and social conditions, rather than the replacement of one set of ideas alone.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《德意志意识形态》",
+        "locator": "第一章A，共产主义的生产力发展前提",
+        "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说的是缺少相应生产发展条件时的后果，提示社会变革不能仅靠分配愿望来保证人的解放。",
+        "context": "在论述共产主义的物质前提时，原文强调生产力发展的必要性，随后以匮乏普遍化说明：若缺少这一前提，争夺生活必需品的旧有冲突会再出现。",
+        "point": "这是关于缺乏条件的警示片段，不能脱离前后文改成对任何社会变革必然导致贫困的断言。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "communist",
+            "ipa": "ˈkɑmjənəst",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "revolution",
+            "ipa": "ˌɹɛvəˈɫuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-031",
       "zh": "《反杜林论》",
       "en": "Anti-Dühring",
       "definition": "恩格斯针对杜林理论展开的系统性批判，涵盖哲学、政治经济学与社会主义，集中说明马克思主义的若干基本观点。",
-      "sentence": "Anti-Dühring presents arguments on philosophy, political economy, and socialism through a sustained critique of Dühring's ideas.",
-      "translation": "《反杜林论》通过持续批判杜林的思想，阐述哲学、政治经济学和社会主义方面的论证。",
+      "sentence": "the connection inherent in the various views",
+      "translation": "各个观点之间内在的联系",
       "hint": "",
       "source": "恩格斯《反杜林论》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1877/anti-duhring/",
-      "sourceNote": "首页与版本信息：Anti-Dühring；副标题 Herr Eugen Dühring's Revolution in Science。 释义及复试练习句为原创。",
+      "sourceNote": "首页与版本信息：Anti-Dühring；副标题 Herr Eugen Dühring's Revolution in Science。 释义为项目编写。",
       "aliases": [
         "Anti-Duhring",
         "Herr Eugen Dühring's Revolution in Science"
@@ -7604,674 +8852,2326 @@
       "entryType": "work",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "Anti-Dühring presents arguments on philosophy, political economy, and socialism through a sustained critique of Dühring's ideas.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《反杜林论》",
+        "locator": "第一版序言，说明批判范围及各观点联系的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1877/anti-duhring/preface.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句提示全书不同论域的观点具有相互联系，读者需要把局部论战放回共同的理论立场。",
+        "context": "第一版序言说明批判杜林须进入其整套主张涉及的领域，同时强调本书并非要另造一个体系；这个片段随后提示各章正面观点之间的联系。",
+        "point": "区分理论观点的内在联系与自称包办一切的封闭体系，不能把系统理解等同于拒绝继续研究。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Anti",
+            "ipa": "ˈænˌtaɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Dühring",
+            "ipa": "ˈdyːʁɪŋ",
+            "language": "de",
+            "url": "https://en.wiktionary.org/wiki/D%C3%BChring"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-032",
       "zh": "《社会主义从空想到科学的发展》",
       "en": "Socialism: Utopian and Scientific",
       "definition": "恩格斯根据《反杜林论》相关章节编成的通俗著作，介绍空想社会主义的历史贡献及社会主义成为科学的理论条件。",
-      "sentence": "Socialism: Utopian and Scientific explains how socialist theory developed through historical analysis and the critique of capitalism.",
-      "translation": "《社会主义从空想到科学的发展》说明社会主义理论如何通过历史分析和资本主义批判发展起来。",
+      "sentence": "With these discoveries, Socialism became a science.",
+      "translation": "有了这些发现，社会主义成为科学。",
       "hint": "",
       "source": "恩格斯《社会主义从空想到科学的发展》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/",
-      "sourceNote": "首页与版本信息；Edward Aveling英译1892，英文标题 Socialism: Utopian and Scientific。 释义及复试练习句为原创。",
+      "sourceNote": "首页与版本信息；Edward Aveling英译1892，英文标题 Socialism: Utopian and Scientific。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "Socialism: Utopian and Scientific explains how socialist theory developed through historical analysis and the critique of capitalism.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《社会主义从空想到科学的发展》",
+        "locator": "第二章结尾，唯物史观和剩余价值的两项发现",
+        "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句中的这些发现有明确所指，强调社会主义理论的转变有赖于对历史和资本主义生产的说明。",
+        "context": "第二章末尾先指出早期社会主义难以解释剥削如何发生，再说明唯物史观与剩余价值的发现如何揭示资本主义的历史条件及其内部关系。",
+        "point": "必须补回代词所指的两项理论发现，不能把科学化简单等同于主张更美好社会或表达更强烈谴责。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Socialism",
+            "ipa": "ˈsoʊʃəˌɫɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Utopian",
+            "ipa": "juˈtoʊpiən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Scientific",
+            "ipa": "ˌsaɪənˈtɪfɪk",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-033",
       "zh": "《自然辩证法》",
       "en": "Dialectics of Nature",
       "definition": "恩格斯围绕自然科学、哲学与辩证法撰写的未完成手稿和札记，其文本性质需要与正式定稿的专著相区别。",
-      "sentence": "Dialectics of Nature explores relations between scientific discoveries and dialectical thinking in an unfinished collection of manuscripts.",
-      "translation": "《自然辩证法》在一组未完成手稿中探讨科学发现与辩证思维之间的关系。",
+      "sentence": "all-round systematic and scientific development",
+      "translation": "全面、系统而科学的发展",
       "hint": "",
       "source": "恩格斯《自然辩证法》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1883/don/",
-      "sourceNote": "目录与出版说明；未完成手稿及札记，非作者生前定稿出版的完整体系。 释义及复试练习句为原创。",
+      "sourceNote": "目录与出版说明；未完成手稿及札记，非作者生前定稿出版的完整体系。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "Dialectics of Nature explores relations between scientific discoveries and dialectical thinking in an unfinished collection of manuscripts.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《自然辩证法》",
+        "locator": "《导言》开头，近代自然科学的历史形成",
+        "url": "https://www.marxists.org/archive/marx/works/1883/don/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句所说的发展属于近代自然科学自身的历史过程，提示科学体系的形成也需要放在具体时代考察。",
+        "context": "《导言》开头把近代自然科学的发展联系到文艺复兴、宗教改革及社会变化，后文追踪具体科学成果和自然观的变化，而非从抽象原则直接演出科学。",
+        "point": "先辨明片段所修饰的对象是近代自然科学，再把具体成果、时代条件与理论自然观区分并联系起来。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Dialectics",
+            "ipa": "ˌdaɪəˈlɛktɪks",
+            "language": "en-US",
+            "url": "https://www.oxfordlearnersdictionaries.com/us/definition/american_english/dialectic"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Nature",
+            "ipa": "ˈneɪtʃɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-034",
       "zh": "《家庭、私有制和国家的起源》",
       "en": "The Origin of the Family, Private Property and the State",
       "definition": "恩格斯结合当时人类学材料研究家庭、财产和国家的历史联系，阅读其具体史料判断需注意研究时代和证据条件。",
-      "sentence": "The Origin of the Family, Private Property and the State examines institutions as historically changing social forms.",
-      "translation": "《家庭、私有制和国家的起源》把制度作为历史上变化着的社会形式来考察。",
+      "sentence": "It was replaced by the state.",
+      "translation": "它被国家所取代。",
       "hint": "",
       "source": "恩格斯《家庭、私有制和国家的起源》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1884/origin-family/",
-      "sourceNote": "首页书名；基本依据Alick West 1942英译并经修订，个别章节标题标点略异。 释义及复试练习句为原创。",
+      "sourceNote": "首页书名；基本依据Alick West 1942英译并经修订，个别章节标题标点略异。 释义为项目编写。",
       "aliases": [],
       "entryType": "work",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The Origin of the Family, Private Property and the State examines institutions as historically changing social forms.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《家庭、私有制和国家的起源》",
+        "locator": "第九章，氏族制度瓦解及国家形成的讨论",
+        "url": "https://www.marxists.org/archive/marx/works/1884/origin-family/ch09.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句中的它指氏族制度，强调国家形成涉及既有社会组织的历史变化，而非永恒政治结构的显现。",
+        "context": "第九章在总结分工、财产分化、人口流动与阶级冲突后，说明氏族组织无法处理新关系，随后分析国家区别于旧血缘组织的特点。",
+        "point": "先辨明被取代的是哪种组织，再联系阶级分化和公共权力理解国家形成，不把一切共同管理都叫国家。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Origin",
+            "ipa": "ˈɔɹədʒən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Family",
+            "ipa": "ˈfæməɫi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Private",
+            "ipa": "ˈpɹaɪvət",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Property",
+            "ipa": "ˈpɹɑpɝti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "State",
+            "ipa": "ˈsteɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-035",
       "zh": "《路德维希·费尔巴哈和德国古典哲学的终结》",
       "en": "Ludwig Feuerbach and the End of Classical German Philosophy",
       "definition": "恩格斯回顾马克思主义与德国古典哲学关系的重要著作，讨论黑格尔、费尔巴哈以及唯物主义历史观的发展。",
-      "sentence": "Ludwig Feuerbach and the End of Classical German Philosophy examines Marxism's relationship with its German philosophical predecessors.",
-      "translation": "《路德维希·费尔巴哈和德国古典哲学的终结》考察马克思主义同其德国哲学先驱的关系。",
+      "sentence": "Hegel was not simply put aside.",
+      "translation": "黑格尔并没有被简单地抛弃。",
       "hint": "",
       "source": "恩格斯《路德维希·费尔巴哈和德国古典哲学的终结》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/",
-      "sourceNote": "首页与目录；Progress Publishers 1946英译，其他版本书名可能以 Outcome 替代 End。 释义及复试练习句为原创。",
+      "sourceNote": "首页与目录；Progress Publishers 1946英译，其他版本书名可能以 Outcome 替代 End。 释义为项目编写。",
       "aliases": [
         "Ludwig Feuerbach and the Outcome of Classical German Philosophy"
       ],
       "entryType": "work",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "Ludwig Feuerbach and the End of Classical German Philosophy examines Marxism's relationship with its German philosophical predecessors.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《路德维希·费尔巴哈和德国古典哲学的终结》",
+        "locator": "第四部分开头，马克思与黑格尔的关系",
+        "url": "https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/ch04.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句强调同黑格尔的关系包含批判继承，马克思主义的发展并非把此前哲学全部归零。",
+        "context": "第四部分先比较黑格尔学派分化后的道路，再说明马克思的方向如何坚持唯物主义并改造辩证方法的唯心主义形式，借以解释自然与历史。",
+        "point": "区分辩证方法中可继承的因素与需要改造的唯心主义前提，不能把继承理解为照搬整个体系。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Ludwig",
+            "ipa": "ˈludvɪɡ",
+            "language": "en-US",
+            "url": "https://www.collinsdictionary.com/dictionary/english/ludwig"
+          },
+          {
+            "word": "Feuerbach",
+            "ipa": "ˈfɔɪərˌbɑːk",
+            "language": "en-US",
+            "url": "https://www.collinsdictionary.com/dictionary/english/feuerbach"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "End",
+            "ipa": "ˈɛnd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Classical",
+            "ipa": "ˈkɫæsɪkəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "German",
+            "ipa": "ˈdʒɝmən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Philosophy",
+            "ipa": "fəˈɫɑsəfi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-036",
       "zh": "量向质的转化",
       "en": "transformation of quantity into quality",
       "definition": "恩格斯概括的辩证规律之一，说明一定条件下量的增减能够引起性质变化，不能脱离具体对象机械套用。",
-      "sentence": "The transformation of quantity into quality depends on specific conditions within a particular natural or social process.",
-      "translation": "量向质的转化取决于特定自然过程或社会过程中的具体条件。",
+      "sentence": "in a manner exactly fixed for each individual case",
+      "translation": "以每一具体情形所严格规定的方式",
       "hint": "",
       "source": "恩格斯《自然辩证法》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1883/don/ch02.htm",
-      "sourceNote": "第二章：Dialectics，量向质及质向量转化的规律。 释义及复试练习句为原创。",
+      "sourceNote": "第二章：Dialectics，量向质及质向量转化的规律。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The transformation of quantity into quality depends on specific conditions within a particular natural or social process.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《自然辩证法》",
+        "locator": "辩证法，量质转化论述的开头",
+        "url": "https://www.marxists.org/archive/marx/works/1883/don/ch02.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句强调量与质的关系须由具体对象和条件来规定，因此一般规律并不提供脱离材料的万能门槛。",
+        "context": "辩证法一节在概括三条规律并反对把思维规律强加给现实后，转入量质转化，结合物质组成、运动和物态变化说明具体条件的重要性。",
+        "point": "复习时说清哪一种量、哪一个过程及什么条件，再讨论性质变化，不能把数量增加本身直接当作质变。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "transformation",
+            "ipa": "ˌtɹænsfɝˈmeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "quantity",
+            "ipa": "ˈkwɑntəti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "into",
+            "ipa": "ˈɪntu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "quality",
+            "ipa": "ˈkwɑɫəti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-037",
       "zh": "否定之否定",
       "en": "negation of the negation",
       "definition": "《反杜林论》用于讨论发展中克服旧形式并保留其成果的辩证过程，反对把它当作代替具体研究的外在公式。",
-      "sentence": "The negation of the negation describes a pattern of development, but cannot replace investigation of concrete processes.",
-      "translation": "否定之否定描述一种发展形式，但不能替代对具体过程的研究。",
+      "sentence": "after Marx has completed his proof",
+      "translation": "在马克思完成其论证之后",
       "hint": "",
       "source": "恩格斯《反杜林论》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch11.htm",
-      "sourceNote": "第一编第十三章：Dialectics. Negation of the Negation。 释义及复试练习句为原创。",
+      "sourceNote": "第一编第十三章：Dialectics. Negation of the Negation。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The negation of the negation describes a pattern of development, but cannot replace investigation of concrete processes.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《反杜林论》",
+        "locator": "第一编第十三章，说明历史论证先于辩证概括",
+        "url": "https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch11.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句强调论证的先后次序，指出辩证法概括出现在历史经济分析之后，而非取代对事实的证明。",
+        "context": "第十三章回应杜林对《资本论》的批评，恩格斯先说明马克思以历史经济事实分析资本主义过程，再解释为何随后可以把该过程称作否定之否定。",
+        "point": "辩证规律的名称不能自动证明某一历史结论，复习应区分事实论证与对已分析过程的概括。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "negation",
+            "ipa": "nəˈɡeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "negation",
+            "ipa": "nəˈɡeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-038",
       "zh": "对偶制家庭",
       "en": "pairing family",
       "definition": "恩格斯依据当时人类学材料讨论的一种历史家庭形式，伴侣关系相对稳定但结合仍可解除，须放在原文框架中理解。",
-      "sentence": "The pairing family is a historical category used by Engels when examining changing forms of marriage.",
-      "translation": "对偶制家庭是恩格斯在考察婚姻形式变化时使用的一个历史范畴。",
+      "sentence": "The marriage tie can, however, be easily dissolved",
+      "translation": "不过，婚姻关系可以较容易地解除",
       "hint": "",
       "source": "恩格斯《家庭、私有制和国家的起源》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1884/origin-family/ch02c.htm",
-      "sourceNote": "第二章第三节：The Pairing Family；应结合十九世纪研究材料及今日学术进展阅读。 释义及复试练习句为原创。",
+      "sourceNote": "第二章第三节：The Pairing Family；应结合十九世纪研究材料及今日学术进展阅读。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The pairing family is a historical category used by Engels when examining changing forms of marriage.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《家庭、私有制和国家的起源》",
+        "locator": "第二章第三节，婚姻关系可解除及子女归属的段落",
+        "url": "https://www.marxists.org/archive/marx/works/1884/origin-family/ch02c.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说明原文描述的对偶关系尚有可解除性，不能只据男女相对稳定结合便把它等同于现代家庭。",
+        "context": "第二章第三节说明对偶制家庭的结合特点，接着讨论双方解除关系、子女归属及相关亲属组织，将这些关系放进家庭形式变化的历史叙述。",
+        "point": "结合可解除与男女地位平等并非同一个判断，也要把原著所用人类学阶段框架放在其研究时代阅读。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "pairing",
+            "ipa": "ˈpɛɹɪŋ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "family",
+            "ipa": "ˈfæməɫi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-039",
       "zh": "自由王国",
       "en": "kingdom of freedom",
       "definition": "恩格斯讨论人自觉掌握自身社会组织时使用的表达，强调在认识和控制社会力量的基础上实现更自觉的历史活动。",
-      "sentence": "The kingdom of freedom involves conscious control over social conditions that previously confronted people as external forces.",
-      "translation": "自由王国意味着自觉控制那些先前作为外在力量与人相对立的社会条件。",
+      "sentence": "the kingdom of freedom",
+      "translation": "自由王国",
       "hint": "",
       "source": "恩格斯《社会主义从空想到科学的发展》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm",
-      "sourceNote": "第三章末段：国家消亡、从必然王国向自由王国的飞跃。 释义及复试练习句为原创。",
+      "sourceNote": "第三章末段：国家消亡、从必然王国向自由王国的飞跃。 释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The kingdom of freedom involves conscious control over social conditions that previously confronted people as external forces.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《社会主义从空想到科学的发展》",
+        "locator": "第三章后段，从必然王国向自由王国的论述",
+        "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句所概括的是人逐渐自觉掌握社会关系的状态，不能把自由只理解为个人摆脱约束的感受。",
+        "context": "第三章先讨论社会占有和有计划的生产组织，再说明此前像自然力量一样支配人的社会条件如何转为人的共同活动可以调节的对象。",
+        "point": "自由王国须同生产关系和社会组织的改变联系起来，并不意味着人从此可以不顾客观条件行动。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "kingdom",
+            "ipa": "ˈkɪŋdəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "freedom",
+            "ipa": "ˈfɹidəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-040",
       "zh": "对物的管理",
       "en": "administration of things",
       "definition": "恩格斯讨论阶级统治条件消失后的社会管理时使用的表达，涉及生产过程的组织，不能理解成把人当作物来管理。",
-      "sentence": "The administration of things concerns organizing social production rather than maintaining political domination over a subordinate class.",
-      "translation": "对物的管理涉及组织社会生产，而不是维持对从属阶级的政治统治。",
+      "sentence": "the administration of things",
+      "translation": "对物的管理",
       "hint": "",
       "source": "恩格斯《社会主义从空想到科学的发展》英文版",
       "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm",
-      "sourceNote": "第三章末段：恩格斯以 administration of things 及 conduct of processes of production 说明对人的政治统治被新的社会组织形式取代。释义及复试练习句为原创。",
+      "sourceNote": "第三章末段：恩格斯以 administration of things 及 conduct of processes of production 说明对人的政治统治被新的社会组织形式取代。释义为项目编写。",
       "aliases": [],
       "entryType": "term",
       "author": "恩格斯",
       "category": "cl",
-      "groupId": "cl-04"
+      "groupId": "cl-04",
+      "quizSentence": "The administration of things concerns organizing social production rather than maintaining political domination over a subordinate class.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《社会主义从空想到科学的发展》",
+        "locator": "第三章后段，对人的统治与生产过程管理的区分",
+        "url": "https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "摘句说明阶级统治条件消失后仍需组织共同生产事务，改变的是统治性质而非取消一切管理活动。",
+        "context": "第三章在说明国家作为特殊压迫力量如何随阶级对立消失而失去必要性时，用这一片段及生产过程的管理来解释相应的社会职能变化。",
+        "point": "区分阶级压迫的政治统治与公共生产事务的组织；对物的管理绝不是把社会成员当作物来控制。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "administration",
+            "ipa": "ædˌmɪnɪˈstɹeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "things",
+            "ipa": "ˈθɪŋz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-041",
       "zh": "《怎么办？》",
       "en": "What Is To Be Done?",
       "definition": "列宁于一九〇二年出版的建党理论著作，批评经济主义，讨论革命理论、政治意识与革命组织建设。",
-      "sentence": "What Is To Be Done? explores how revolutionary theory and organized political activity relate to the workers' movement.",
-      "translation": "《怎么办？》探讨革命理论和有组织的政治活动如何同工人运动相联系。",
+      "sentence": "Without revolutionary theory there can be no revolutionary movement.",
+      "translation": "没有革命的理论，就不能有革命的运动。",
       "hint": "",
       "source": "列宁：What Is To Be Done?（Marxists Internet Archive；Collected Works第5卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/index.htm",
-      "sourceNote": "英译标题；目录及出版说明；重点内容见第一至第四章；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；目录及出版说明；重点内容见第一至第四章；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "What Is To Be Done? explores how revolutionary theory and organized political activity relate to the workers' movement.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《怎么办？》",
+        "locator": "第一章D节：恩格斯论理论斗争的意义",
+        "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/i.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这句把革命理论表述为革命运动的必要条件，重点是反对把实际活动同理论方向和原则割裂。",
+        "context": "列宁回应经济主义对眼前斗争的偏重，指出政党尚在形成且需要辨明其他思想倾向，因此理论工作关系到运动方向；这里不是否认群众实际斗争的价值。",
+        "point": "要区分重视实践与轻视理论，必要条件的判断并不意味着只靠理论就能自动产生革命运动。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "What",
+            "ipa": "ˈhwət",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Is",
+            "ipa": "ˈɪz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "To",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Be",
+            "ipa": "ˈbi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Done",
+            "ipa": "ˈdən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-042",
       "zh": "《进一步，退两步》",
       "en": "One Step Forward, Two Steps Back",
       "definition": "列宁围绕俄国社会民主工党第二次代表大会争论写成的著作，讨论党章、组织原则和党内分歧。",
-      "sentence": "One Step Forward, Two Steps Back examines disputes about party rules and organization after the second party congress.",
-      "translation": "《进一步，退两步》考察党的第二次代表大会之后有关党章和组织的争论。",
+      "sentence": "every little difference may become a big one",
+      "translation": "每一个小分歧都可能变成大分歧",
       "hint": "",
       "source": "列宁：One Step Forward, Two Steps Back（Marxists Internet Archive；Collected Works第7卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1904/onestep/index.htm",
-      "sourceNote": "英译标题；副标题The Crisis in Our Party；重点见G至Q各节；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；副标题The Crisis in Our Party；重点见G至Q各节；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "One Step Forward, Two Steps Back examines disputes about party rules and organization after the second party congress.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《进一步，退两步》",
+        "locator": "I节：党章第一条，开头关于小分歧扩大的论述",
+        "url": "https://www.marxists.org/archive/lenin/works/1904/onestep/i.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话提示小分歧可能因争论的发展而扩大，原文随后给出条件，并没有把这种扩大说成必然规律。",
+        "context": "讨论党章第一条时，列宁先承认单独看这项分歧并非生死攸关，再说明它怎样同新的政治分歧、组织行动及会后冲突相结合，从而获得更大的重要性。",
+        "point": "注意可能性的语气，分歧的重要性需要放在具体政治联系中判断，不能把每个细节都视为原则决裂。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "One",
+            "ipa": "ˈwən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Step",
+            "ipa": "ˈstɛp",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Forward",
+            "ipa": "ˈfɔɹwɝd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Two",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Steps",
+            "ipa": "ˈstɛps",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Back",
+            "ipa": "ˈbæk",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-043",
       "zh": "《社会民主党在民主革命中的两种策略》",
       "en": "Two Tactics of Social-Democracy in the Democratic Revolution",
       "definition": "列宁分析一九〇五年俄国革命策略的著作，讨论民主革命任务、阶级关系和无产阶级的领导作用。",
-      "sentence": "Two Tactics of Social-Democracy in the Democratic Revolution compares political strategies and emphasizes the proletariat's role in democratic revolution.",
-      "translation": "《社会民主党在民主革命中的两种策略》比较政治策略，并强调无产阶级在民主革命中的作用。",
+      "sentence": "the peasantry is capable of doing so",
+      "translation": "农民能够做到这一点",
       "hint": "",
       "source": "列宁：Two Tactics of Social-Democracy in the Democratic Revolution（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1905/tactics/index.htm",
-      "sourceNote": "英译标题；目录，尤其第2、10、12、13章；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；目录，尤其第2、10、12、13章；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Two Tactics of Social-Democracy in the Democratic Revolution compares political strategies and emphasizes the proletariat's role in democratic revolution.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《社会民主党在民主革命中的两种策略》",
+        "locator": "第十二章：资产阶级与农民能否把民主革命进行到底",
+        "url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch12.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段中的这一点指把民主革命进行到底，强调农民的民主革命潜力，并非说农民已经成为社会主义者。",
+        "context": "列宁分析农民要求土地改革与民主制度的利益，借此说明资产阶级退却并不必然缩小革命规模；同段把农民的作用同无产阶级主动帮助和组织革命联系起来。",
+        "point": "要区分民主革命中的同盟潜力与社会主义立场，原文明确没有抹去农民的小资产阶级性质。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Two",
+            "ipa": "ˈtu",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Tactics",
+            "ipa": "ˈtæktɪks",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Social",
+            "ipa": "ˈsoʊʃəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Democracy",
+            "ipa": "dɪˈmɑkɹəsi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "in",
+            "ipa": "ˈɪn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Democratic",
+            "ipa": "ˌdɛməˈkɹætɪk",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Revolution",
+            "ipa": "ˌɹɛvəˈɫuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-044",
       "zh": "《四月提纲》",
       "en": "The April Theses",
       "definition": "列宁在一九一七年四月提出的政治提纲，分析俄国革命的新阶段，提出政权和革命方向等问题。",
-      "sentence": "The April Theses presents Lenin's assessment of Russia's revolutionary situation and proposes a new political direction in 1917.",
-      "translation": "《四月提纲》呈现列宁对俄国革命形势的判断，并提出一九一七年新的政治方向。",
+      "sentence": "No support for the Provisional Government",
+      "translation": "不给临时政府以任何支持",
       "hint": "",
       "source": "列宁：The Tasks of the Proletariat in the Present Revolution（The April Theses）（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1917/apr/04.htm",
-      "sourceNote": "页面副标题明确标为The April Theses；正文10条提纲；正式标题见别名；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "页面副标题明确标为The April Theses；正文10条提纲；正式标题见别名；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [
         "The Tasks of the Proletariat in the Present Revolution"
       ],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "The April Theses presents Lenin's assessment of Russia's revolutionary situation and proposes a new political direction in 1917.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《四月提纲》",
+        "locator": "第3条；联系第4条少数地位下的解释工作",
+        "url": "https://www.marxists.org/archive/lenin/works/1917/apr/04.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这条要求表达了对临时政府的政治判断，强调不能把新的政府形式本身当成改变其阶级性质的依据。",
+        "context": "二月革命后群众对临时政府抱有信任，列宁在提纲中要求揭露政府承诺；紧接着又承认党在多数苏维埃中处于少数，强调耐心解释并让群众通过经验认识错误。",
+        "point": "不支持政府的政治立场要同少数条件下的群众工作联系起来，不能跳过提纲中耐心解释的要求。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "April",
+            "ipa": "ˈeɪpɹəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Theses",
+            "ipa": "ˈθiːsiːz",
+            "language": "en-US",
+            "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/thesis"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-045",
       "zh": "《共产主义运动中的“左派”幼稚病》",
       "en": "Left-Wing Communism: An Infantile Disorder",
       "definition": "列宁于一九二〇年总结革命经验的著作，批评脱离具体条件的激进策略，讨论妥协和群众工作。",
-      "sentence": "Left-Wing Communism: An Infantile Disorder criticizes rigid tactics and stresses careful attention to concrete political conditions and mass experience.",
-      "translation": "《共产主义运动中的“左派”幼稚病》批评僵化策略，并强调认真关注具体政治条件和群众经验。",
+      "sentence": "One must use one’s own brains",
+      "translation": "必须动用自己的头脑",
       "hint": "",
       "source": "列宁：Left-Wing Communism: An Infantile Disorder（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1920/lwc/index.htm",
-      "sourceNote": "英译标题；标题装饰引号略去，词语保留；第6至10章讨论策略问题；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；标题装饰引号略去，词语保留；第6至10章讨论策略问题；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Left-Wing Communism: An Infantile Disorder criticizes rigid tactics and stresses careful attention to concrete political conditions and mass experience.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《共产主义运动中的“左派”幼稚病》",
+        "locator": "第八章：决不妥协吗？具体判断的段落",
+        "url": "https://www.marxists.org/archive/lenin/works/1920/lwc/ch08.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话要求在具体政治问题上独立分析，反对用一个看似坚决的固定口号取代实际判断和经验。",
+        "context": "批评绝不妥协的公式后，列宁指出不同阶级和政党的关系常常十分复杂，必须积累知识、经验和政治判断能力，才能分辨某一协议究竟具有何种性质。",
+        "point": "独立思考不是任意行动，而是依据事实、力量关系和政治目标判断策略是否合适。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Left",
+            "ipa": "ˈɫɛft",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Wing",
+            "ipa": "ˈwɪŋ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Communism",
+            "ipa": "ˈkɑmjəˌnɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "An",
+            "ipa": "ˈæn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Infantile",
+            "ipa": "ˈɪnfəntɪɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Disorder",
+            "ipa": "dɪˈsɔɹdɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-046",
       "zh": "革命理论",
       "en": "revolutionary theory",
       "definition": "对革命目标、社会条件与行动规律的系统认识，列宁在建党论争中强调理论对革命运动的指导意义。",
-      "sentence": "Lenin stresses that revolutionary theory helps political movements understand their aims rather than merely respond to immediate pressures.",
-      "translation": "列宁强调，革命理论帮助政治运动理解自身目标，而不只是回应眼前压力。",
+      "sentence": "the most advanced theory.",
+      "translation": "最先进的理论。",
       "hint": "",
       "source": "列宁：《怎么办？》第一章（Marxists Internet Archive英译原文）",
       "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/i.htm",
-      "sourceNote": "第一章D节有关理论意义；原文直接使用revolutionary theory；句子为原创概括；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第一章D节有关理论意义；原文直接使用revolutionary theory；句子为原创概括；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Lenin stresses that revolutionary theory helps political movements understand their aims rather than merely respond to immediate pressures.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《怎么办？》",
+        "locator": "第一章D节：先锋作用与理论指导的段落",
+        "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/i.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这个短语位于先锋作用的论证中，强调发挥政治领导作用必须有相应的理论认识，不能只靠组织称号。",
+        "context": "列宁说明俄国社会民主主义面临独特的政治与组织任务，因而把先锋作用同先进理论指导联系起来；前文还强调应批判地吸收国际经验，而不是简单照搬。",
+        "point": "这里的理论要求关系到认识现实任务和辨明方向，不能把先进理论理解成无需分析条件的现成答案。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "revolutionary",
+            "ipa": "ˌɹɛvəˈɫuʃəˌnɛɹi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "theory",
+            "ipa": "ˈθiɝi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-047",
       "zh": "自发性",
       "en": "spontaneity",
       "definition": "群众行动在未形成系统政治自觉时表现出的自发特点，列宁讨论其同自觉意识及组织引导的关系。",
-      "sentence": "Lenin examines spontaneity by asking how immediate workers' struggles can develop beyond their existing political understanding.",
-      "translation": "列宁通过追问工人的眼前斗争如何超越现有政治认识来考察自发性。",
+      "sentence": "consciousness in an embryonic form.",
+      "translation": "萌芽状态的自觉意识。",
       "hint": "",
       "source": "列宁：《怎么办？》第二章（Marxists Internet Archive英译原文）",
       "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/ii.htm",
-      "sourceNote": "第二章The Spontaneity of the Masses and the Consciousness of the Social-Democrats；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第二章The Spontaneity of the Masses and the Consciousness of the Social-Democrats；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Lenin examines spontaneity by asking how immediate workers' struggles can develop beyond their existing political understanding.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《怎么办？》",
+        "locator": "第二章A节：自发高潮的开始",
+        "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/ii.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这一表述承认自发行动中已经有意识因素，提醒读者不要把自发性误读成完全无知或毫无思想。",
+        "context": "列宁比较早期反抗与十九世纪九十年代罢工，指出后者具有更清楚的要求和协同行动，但尚未形成对整个政治社会制度的系统认识，仍需进一步政治教育与组织。",
+        "point": "区分意识的萌芽和系统政治自觉，承认群众经验的进步并不等于把现有认识水平当作终点。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "spontaneity",
+            "ipa": "ˌspɑːntəˈneɪət̬i",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/us/pronunciation/english/spontaneity"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-048",
       "zh": "职业革命家",
       "en": "professional revolutionaries",
       "definition": "以革命活动为主要工作并接受组织训练的人员，列宁在沙皇专制条件下讨论其对组织连续性的作用。",
-      "sentence": "Professional revolutionaries appear in Lenin's argument about building a stable organization under the conditions of tsarist repression.",
-      "translation": "职业革命家出现在列宁关于沙皇镇压条件下建立稳定组织的论证中。",
+      "sentence": "a stable organisation of leaders",
+      "translation": "一个稳定的领导者组织",
       "hint": "",
       "source": "列宁：《怎么办？》第四章（Marxists Internet Archive英译原文）",
       "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/iv.htm",
-      "sourceNote": "第四章B、C节；原文professional revolutionaries，限定于当时组织建设语境；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第四章B、C节；原文professional revolutionaries，限定于当时组织建设语境；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Professional revolutionaries appear in Lenin's argument about building a stable organization under the conditions of tsarist repression.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《怎么办？》",
+        "locator": "第四章C节：稳定领导组织与职业革命家",
+        "url": "https://www.marxists.org/archive/lenin/works/1901/witbd/iv.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段强调领导组织的稳定性，把问题指向运动经验和工作的持续承接，而不是赋予少数人脱离群众的地位。",
+        "context": "地下工作反复因逮捕和人员变动中断，列宁由此讨论训练职业革命家以保持连续性；他随后区分秘密职能的集中与整个运动的广泛参与，反对将两者混为一谈。",
+        "point": "要结合沙皇镇压条件理解组织方案，集中秘密工作并不等于把群众运动的全部职能交给少数人。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "professional",
+            "ipa": "pɹəˈfɛʃənəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "revolutionaries",
+            "ipa": "ˌɹɛvəˈɫuʃəˌnɛɹiz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-049",
       "zh": "无产阶级领导权",
       "en": "proletarian leadership",
       "definition": "无产阶级在一定革命进程中发挥政治领导作用的问题，列宁结合民主革命中的阶级关系加以讨论。",
-      "sentence": "Proletarian leadership concerns which class shapes the direction of a revolution and organizes alliances with other social forces.",
-      "translation": "无产阶级领导权涉及哪个阶级塑造革命方向并组织同其他社会力量的联盟。",
+      "sentence": "we thereby simply yield leadership in the revolution",
+      "translation": "这样，我们就轻易让出了革命中的领导权",
       "hint": "",
       "source": "列宁：《两种策略》第十二章（Marxists Internet Archive英译原文）",
       "url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch12.htm",
-      "sourceNote": "第十二章讨论革命领导及同农民的关系；英文为依据原文leadership作的学科表达；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第十二章讨论革命领导及同农民的关系；英文为依据原文leadership作的学科表达；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Proletarian leadership concerns which class shapes the direction of a revolution and organizes alliances with other social forces.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《社会民主党在民主革命中的两种策略》",
+        "locator": "第十二章：对因资产阶级可能退却而限制行动的批评",
+        "url": "https://www.marxists.org/archive/lenin/works/1905/tactics/ch12.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话是一项反面警告，指出为迁就资产阶级而限制自身行动，会让无产阶级丧失革命的政治主动权。",
+        "context": "列宁批评因担心资产阶级退却而拒绝参加革命政府的策略，认为这种顾虑实质上把领导权留给资产阶级；原文转而论述无产阶级同农民推进民主革命的可能性。",
+        "point": "领导权需要通过独立行动和组织同盟体现，不能在保留批评自由的同时把实际政治主动权让出去。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "proletarian",
+            "ipa": "ˌproʊ.ləˈter.i.ən",
+            "language": "en-US",
+            "url": "https://dictionary.cambridge.org/us/dictionary/english/proletarian"
+          },
+          {
+            "word": "leadership",
+            "ipa": "ˈɫidɝˌʃɪp",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-050",
       "zh": "妥协",
       "en": "compromises",
       "definition": "政治力量在特定条件下作出的让步或协议，列宁主张根据具体形势和阶级利益判断其性质与作用。",
-      "sentence": "Lenin evaluates compromises through concrete political conditions rather than treating every agreement as an abandonment of revolutionary principles.",
-      "translation": "列宁依据具体政治条件评价妥协，而不把每一种协议都视为放弃革命原则。",
+      "sentence": "a compromise enforced by objective conditions",
+      "translation": "客观条件所迫的妥协",
       "hint": "",
       "source": "列宁：《“左派”幼稚病》第八章No Compromises?（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1920/lwc/ch08.htm",
-      "sourceNote": "第八章No Compromises?；原文区分不同性质的妥协；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第八章No Compromises?；原文区分不同性质的妥协；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-05"
+      "groupId": "cl-05",
+      "quizSentence": "Lenin evaluates compromises through concrete political conditions rather than treating every agreement as an abandonment of revolutionary principles.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《共产主义运动中的“左派”幼稚病》",
+        "locator": "第八章：罢工中不同性质的妥协",
+        "url": "https://www.marxists.org/archive/lenin/works/1920/lwc/ch08.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段指出有些让步来自实际力量条件的限制，说明是否存在妥协本身不足以判断其政治性质。",
+        "context": "列宁以罢工经费、外部支持和工人处境为例，区分不得不作出的退让与出于私利的背叛，并把这种区别引入更复杂的政党和阶级关系，批评一概拒绝妥协的口号。",
+        "point": "客观条件不能被当成掩饰私利的借口，必要妥协仍须结合阶级利益、斗争方向和后续行动判断。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "compromises",
+            "ipa": "ˈkɑmpɹəˌmaɪzɪz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-051",
       "zh": "《唯物主义和经验批判主义》",
       "en": "Materialism and Empirio-criticism",
       "definition": "列宁于一九〇九年出版的哲学著作，批判马赫主义，讨论物质、感觉、客观真理与实践等认识论问题。",
-      "sentence": "Materialism and Empirio-criticism defends a materialist approach to knowledge while examining debates about sensation, reality, and scientific thought.",
-      "translation": "《唯物主义和经验批判主义》捍卫唯物主义的认识方法，同时考察感觉、实在和科学思维方面的论争。",
+      "sentence": "This is typical philosophical revisionism",
+      "translation": "这是典型的哲学修正主义",
       "hint": "",
       "source": "列宁：Materialism and Empirio-criticism（Marxists Internet Archive；Collected Works第14卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1908/mec/index.htm",
-      "sourceNote": "英译标题；出版说明及第一至第三章目录；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；出版说明及第一至第三章目录；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "Materialism and Empirio-criticism defends a materialist approach to knowledge while examining debates about sensation, reality, and scientific thought.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《唯物主义和经验批判主义》",
+        "locator": "第一版序言：对哲学修正主义的概括",
+        "url": "https://www.marxists.org/archive/lenin/works/1908/mec/pref01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话表明作者把论争视为对马克思主义哲学立场的修正，强调争议不只是若干术语表达的不同。",
+        "context": "第一版序言针对一批自称马克思主义的作者，批评他们借现代认识论等名义攻击辩证唯物主义，却又回避清楚说明自己同马克思恩格斯哲学观点之间的分歧。",
+        "point": "这是针对特定论争的判断，要联系对方实际哲学主张理解，不能仅凭使用新术语就作同样定性。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Materialism",
+            "ipa": "məˈtɪɹiəˌɫɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Empirio",
+            "ipa": null,
+            "language": "en",
+            "url": ""
+          },
+          {
+            "word": "criticism",
+            "ipa": "ˈkɹɪtɪˌsɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-052",
       "zh": "《帝国主义是资本主义的最高阶段》",
       "en": "Imperialism, the Highest Stage of Capitalism",
       "definition": "列宁研究垄断资本主义的著作，分析金融资本、资本输出和世界瓜分，讨论帝国主义的历史地位。",
-      "sentence": "Imperialism, the Highest Stage of Capitalism connects monopolies, financial power, and capital exports within Lenin's analysis of global capitalism.",
-      "translation": "《帝国主义是资本主义的最高阶段》在列宁的全球资本主义分析中联系垄断、金融权力和资本输出。",
+      "sentence": "imperialism is the monopoly stage of capitalism.",
+      "translation": "帝国主义是资本主义的垄断阶段。",
       "hint": "",
       "source": "列宁：Imperialism, the Highest Stage of Capitalism（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/index.htm",
-      "sourceNote": "英译标题；目录与第七、十章主题；副标题A Popular Outline；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；目录与第七、十章主题；副标题A Popular Outline；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "Imperialism, the Highest Stage of Capitalism connects monopolies, financial power, and capital exports within Lenin's analysis of global capitalism.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《帝国主义是资本主义的最高阶段》",
+        "locator": "第七章：最简定义及五个基本特征",
+        "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这个概括把帝国主义定位为资本主义发展阶段，强调其经济基础，而不只是某个政府的对外态度。",
+        "context": "列宁在归纳前文生产集中、银行和国际资本资料后提出最简定义，随即说明简短定义仍然不充分，需要进一步列出金融资本、资本输出和世界瓜分等相互联系的特征。",
+        "point": "要记住垄断阶段这一核心，也要看到作者自己提醒简定义有条件性，不能代替对全部特征的分析。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Imperialism",
+            "ipa": "ˌɪmˈpɪɹiəˌɫɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Highest",
+            "ipa": "ˈhaɪəst",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Stage",
+            "ipa": "ˈsteɪdʒ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Capitalism",
+            "ipa": "ˈkæpɪtəˌɫɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-053",
       "zh": "《国家与革命》",
       "en": "The State and Revolution",
       "definition": "列宁在一九一七年撰写的国家理论著作，结合马克思恩格斯文本和巴黎公社经验讨论国家与革命。",
-      "sentence": "The State and Revolution revisits Marx and Engels while examining the state, class power, and the experience of the Paris Commune.",
-      "translation": "《国家与革命》重读马克思和恩格斯，同时考察国家、阶级权力与巴黎公社的经验。",
+      "sentence": "the state is an organ of class rule",
+      "translation": "国家是阶级统治的机关",
       "hint": "",
       "source": "列宁：The State and Revolution（Marxists Internet Archive；Collected Works第25卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/index.htm",
-      "sourceNote": "英译标题；写作说明及第一至第五章目录；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；写作说明及第一至第五章目录；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "The State and Revolution revisits Marx and Engels while examining the state, class power, and the experience of the Paris Commune.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《国家与革命》",
+        "locator": "第一章第一节：国家与阶级矛盾不可调和",
+        "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段以阶级关系解释国家的社会作用，反对把国家看成能够天然超越各阶级利益的中立力量。",
+        "context": "列宁在引述恩格斯后概括马克思的观点，批评把国家解释为阶级调和机关的论述，并说明承认阶级矛盾仍不够，还需要分析支撑统治的国家权力装置。",
+        "point": "这里讨论国家的阶级性质，并非否认国家存在各种公共职能；公共职能本身不能取消阶级关系分析。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "State",
+            "ipa": "ˈsteɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Revolution",
+            "ipa": "ˌɹɛvəˈɫuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-054",
       "zh": "客观实在",
       "en": "objective reality",
       "definition": "不依赖人的意识而存在的现实，列宁在界定物质及批判主观唯心主义时强调其对认识论的基础意义。",
-      "sentence": "For Lenin, objective reality exists independently of consciousness, even though people understand it through historically developing forms of knowledge.",
-      "translation": "在列宁看来，客观实在不依赖意识而存在，尽管人们通过历史发展着的认识形式理解它。",
+      "sentence": "an objective reality corresponding to our sensations.",
+      "translation": "同我们的感觉相对应的客观实在。",
       "hint": "",
       "source": "列宁：《唯物主义和经验批判主义》第三章第一节（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1908/mec/three1.htm",
-      "sourceNote": "第三章第一节What Is Matter? What Is Experience?；正文直接使用objective reality；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第三章第一节What Is Matter? What Is Experience?；正文直接使用objective reality；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "For Lenin, objective reality exists independently of consciousness, even though people understand it through historically developing forms of knowledge.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《唯物主义和经验批判主义》",
+        "locator": "第三章第一节：感觉的外部客观来源",
+        "url": "https://www.marxists.org/archive/lenin/works/1908/mec/three1.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这一短语把感觉联系到独立的现实来源，强调感觉并不因为是人的经验就只能指向人的主观意识。",
+        "context": "列宁分析马赫派关于物质的说法，指出分歧根本上仍是思维与存在、感觉与外部世界的关系；他反对以经验等新名称回避是否承认客观实在这一问题。",
+        "point": "客观实在不能同某种具体感觉或某个物理模型混同，哲学上对其存在的承认与科学认识发展并不冲突。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "objective",
+            "ipa": "əbˈdʒɛktɪv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "reality",
+            "ipa": "ˌɹiˈæɫəˌti",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-055",
       "zh": "实践标准",
       "en": "criterion of practice",
       "definition": "以现实实践检验认识是否符合客观对象的标准，列宁同时讨论其确定性及无法一次穷尽真理的特点。",
-      "sentence": "The criterion of practice asks whether human activity supports our understanding of reality while leaving room for further investigation.",
-      "translation": "实践标准追问人的活动是否支持我们对现实的理解，同时保留进一步研究的空间。",
+      "sentence": "The standpoint of life, of practice",
+      "translation": "生活的、实践的观点",
       "hint": "",
       "source": "列宁：《唯物主义和经验批判主义》第二章第六节（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1908/mec/two6.htm",
-      "sourceNote": "第二章第六节The Criterion of Practice in the Theory of Knowledge；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第二章第六节The Criterion of Practice in the Theory of Knowledge；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "The criterion of practice asks whether human activity supports our understanding of reality while leaving room for further investigation.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《唯物主义和经验批判主义》",
+        "locator": "第二章第六节：生活实践观点及标准的历史限度",
+        "url": "https://www.marxists.org/archive/lenin/works/1908/mec/two6.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话把现实生活和实践带入认识论，强调检验认识不能只在抽象观念之间作封闭推演。",
+        "context": "列宁批评一些哲学家在实际行动中承认外部对象，却在理论中回避其客观存在，随后说明实践标准既能支持唯物主义认识论，又不能一次穷尽对全部观念的检验。",
+        "point": "实践具有认识论意义，但不能把一时方便或成功直接当作真理，也不能忽略实践发展的历史限度。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "criterion",
+            "ipa": "kɹaɪˈtɪɹiən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "practice",
+            "ipa": "ˈpɹæktəs",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-056",
       "zh": "金融资本",
       "en": "finance capital",
       "definition": "在垄断发展中由银行资本与工业资本融合形成的资本，列宁把它同生产集中和垄断的成长联系起来。",
-      "sentence": "Finance capital describes the merging of banking and industrial power under the conditions of growing concentration and monopoly.",
-      "translation": "金融资本描述在集中和垄断不断发展条件下银行力量与工业力量的融合。",
+      "sentence": "the merging of bank capital with industrial capital",
+      "translation": "银行资本同工业资本的融合",
       "hint": "",
       "source": "列宁：《帝国主义是资本主义的最高阶段》第三章（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch03.htm",
-      "sourceNote": "第三章开头；列宁评述希法亭定义后强调生产集中、垄断和银行工业融合；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第三章开头；列宁评述希法亭定义后强调生产集中、垄断和银行工业融合；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "Finance capital describes the merging of banking and industrial power under the conditions of growing concentration and monopoly.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《帝国主义是资本主义的最高阶段》",
+        "locator": "第七章：第二个基本特征",
+        "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段揭示金融资本形成中的关系变化，强调它不是银行资本和工业资本各自增长的简单相加。",
+        "context": "列宁在帝国主义基本特征中把银行资本与工业资本融合、金融资本形成及金融寡头出现连在一起，前文则通过生产集中和银行作用变化说明这种融合的历史条件。",
+        "point": "要把金融资本放回垄断和控制关系中理解，不能把任何金融交易或银行贷款都视为这一概念的全部。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "finance",
+            "ipa": "ˈfaɪˌnæns",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "capital",
+            "ipa": "ˈkæpətəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-057",
       "zh": "资本输出",
       "en": "export of capital",
       "definition": "资本以投资或贷款等方式进入其他国家以获取收益的活动，列宁把其突出发展视为帝国主义的重要特征。",
-      "sentence": "The export of capital extends investment and financial claims across borders, creating relationships that differ from ordinary commodity trade.",
-      "translation": "资本输出把投资和金融索取权扩展到国境之外，形成不同于普通商品贸易的关系。",
+      "sentence": "the export of capital",
+      "translation": "资本输出",
       "hint": "",
       "source": "列宁：《帝国主义是资本主义的最高阶段》第四章（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
-      "sourceNote": "第四章Export of Capital；原文区分商品输出和资本输出；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第四章Export of Capital；原文区分商品输出和资本输出；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "The export of capital extends investment and financial claims across borders, creating relationships that differ from ordinary commodity trade.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《帝国主义是资本主义的最高阶段》",
+        "locator": "第四章：商品输出与资本输出的对照",
+        "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这个术语指向资本跨国寻求收益的活动，提醒读者区分输出资本与把商品运往国外销售。",
+        "context": "列宁以自由竞争时期突出的商品输出为对照，讨论垄断时期富裕国家资本积累及不同地区利润条件，说明跨境投资和借贷怎样形成新的国际经济联系。",
+        "point": "资本输出可以推动商品贸易，但它产生的收益和控制关系不同，不能把所有出口活动都统称为资本输出。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "export",
+            "ipa": "ˈɛkspɔɹt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "capital",
+            "ipa": "ˈkæpətəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-058",
       "zh": "金融寡头",
       "en": "financial oligarchy",
       "definition": "依托金融资本及其控制网络掌握强大经济权力的少数集团，列宁分析其参与制、控制和获利机制。",
-      "sentence": "A financial oligarchy can control extensive economic interests through interconnected ownership structures, banking relationships, and influence over major enterprises.",
-      "translation": "金融寡头可以通过相互关联的所有权结构、银行关系和对大企业的影响控制广泛的经济利益。",
+      "sentence": "the power of the financial oligarchy.",
+      "translation": "金融寡头的权力。",
       "hint": "",
       "source": "列宁：《帝国主义是资本主义的最高阶段》第三章（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch03.htm",
-      "sourceNote": "第三章Finance Capital and the Financial Oligarchy；参与制及控制网络的分析；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第三章Finance Capital and the Financial Oligarchy；参与制及控制网络的分析；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "A financial oligarchy can control extensive economic interests through interconnected ownership structures, banking relationships, and influence over major enterprises.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《帝国主义是资本主义的最高阶段》",
+        "locator": "第三章：参与制与股份分散问题",
+        "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch03.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这一短语关注少数集团支配经济的能力，强调分析资本权力不能只计算股份分散到多少人手中。",
+        "context": "列宁分析参与制和母子公司控制链后，批评把小额股份发行看成资本民主化的说法，指出股份表面分散仍可能成为扩大金融寡头控制范围的方式。",
+        "point": "金融寡头的权力要通过所有权、控制链和银行工业联系解释，不能简化为少数富人的个人好恶。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "financial",
+            "ipa": "ˌfaɪˈnænʃəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "oligarchy",
+            "ipa": "ˈɑɫəˌɡɑɹki",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-059",
       "zh": "国家机器",
       "en": "state machine",
       "definition": "实施国家权力的组织和制度装置，列宁结合巴黎公社经验讨论既有国家机器及其革命性改造问题。",
-      "sentence": "The state machine refers to organized institutions of power whose structure becomes a central issue in Lenin's discussion of revolution.",
-      "translation": "国家机器指有组织的权力机构，其结构成为列宁革命论述中的核心问题。",
+      "sentence": "the old bureaucratic machine",
+      "translation": "旧的官僚机器",
       "hint": "",
       "source": "列宁：《国家与革命》第三章（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch03.htm",
-      "sourceNote": "第三章第二节What Is to Replace the Smashed State Machine?；正文讨论官僚军事机器；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第三章第二节What Is to Replace the Smashed State Machine?；正文讨论官僚军事机器；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "The state machine refers to organized institutions of power whose structure becomes a central issue in Lenin's discussion of revolution.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《国家与革命》",
+        "locator": "第三章第三节：旧官僚机器与新的行政组织",
+        "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch03.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这个短语把批评指向旧机关的官僚结构和运行方式，强调仅更换掌权人员不能自动改变国家机器的性质。",
+        "context": "讨论巴黎公社对官僚机构的改革时，列宁区分立即改变旧机器与逐步克服官僚主义，既反对原样接管旧机关，也反对设想一下取消所有管理和服从关系。",
+        "point": "国家机器的问题既是阶级性质问题，也是组织结构问题；改变旧机器不等于立即取消全部行政管理。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "state",
+            "ipa": "ˈsteɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "machine",
+            "ipa": "məˈʃin",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-060",
       "zh": "国家消亡",
       "en": "withering away of the state",
       "definition": "在阶级对立及其社会基础消除的条件下国家职能逐步失去必要性的过程，不等于立即取消一切公共管理。",
-      "sentence": "The withering away of the state concerns historical conditions under which class coercion becomes unnecessary rather than an immediate administrative decision.",
-      "translation": "国家消亡涉及阶级强制不再必要的历史条件，而不是一项立即作出的行政决定。",
+      "sentence": "What withers away after this revolution is the proletarian state or semi-state.",
+      "translation": "在这次革命以后消亡的是无产阶级国家或半国家。",
       "hint": "",
       "source": "列宁：《国家与革命》第一章（Marxists Internet Archive）",
       "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
-      "sourceNote": "第一章第四节The Withering Away of the State, and Violent Revolution；第五章进一步论经济基础；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第一章第四节The Withering Away of the State, and Violent Revolution；第五章进一步论经济基础；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-06"
+      "groupId": "cl-06",
+      "quizSentence": "The withering away of the state concerns historical conditions under which class coercion becomes unnecessary rather than an immediate administrative decision.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《国家与革命》",
+        "locator": "第一章第四节：国家消亡与暴力革命的区别",
+        "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这句明确消亡所指的国家及其时间条件，防止把国家消亡同资产阶级国家自行退出历史混为一谈。",
+        "context": "列宁解释恩格斯时区分革命对旧国家的改变与革命后国家的逐步消亡，指出后者涉及阶级强制必要性的消除，不能用一般的渐变叙述抹掉革命和阶级性质问题。",
+        "point": "国家消亡不是任意宣布取消国家，也不等于立即终止全部社会管理，而须联系相应经济社会条件。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "withering",
+            "ipa": "ˈwɪðɝɪŋ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "away",
+            "ipa": "əˈweɪ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "of",
+            "ipa": "ˈəv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "the",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "state",
+            "ipa": "ˈsteɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-061",
       "zh": "《论粮食税》",
       "en": "The Tax in Kind",
       "definition": "列宁于一九二一年阐述政策转变的著作，讨论粮食税、商品交换及国家资本主义在过渡经济中的作用。",
-      "sentence": "The Tax in Kind explains a policy shift by linking peasant production, economic recovery, and the transition toward socialism.",
-      "translation": "《论粮食税》通过联系农民生产、经济恢复和向社会主义的过渡来解释政策转变。",
+      "sentence": "The tax in kind is a transition",
+      "translation": "粮食税是一种过渡",
       "hint": "",
       "source": "列宁：The Tax in Kind（Marxists Internet Archive；Collected Works第32卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
-      "sourceNote": "英译标题；副标题The Significance of the New Policy and Its Conditions；正文及结论；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；副标题The Significance of the New Policy and Its Conditions；正文及结论；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "The Tax in Kind explains a policy shift by linking peasant production, economic recovery, and the transition toward socialism.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论粮食税》",
+        "locator": "粮食税、贸易自由和租让制：粮食税的过渡作用",
+        "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段把粮食税界定为过渡性措施，强调讨论重点在于改变经济联系，而不只是规定应缴多少粮食。",
+        "context": "列宁说明战时征集办法曾服务于紧急军事需要，却不适合恢复时期的全部任务；粮食税让农民缴纳后通过交换处理剩余产品，为恢复农业和工业联系提供路径。",
+        "point": "过渡要说明从什么条件走向何种经济联系，不能把粮食税当成脱离战争破坏与工农关系的孤立制度。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "The",
+            "ipa": "ˈðə",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Tax",
+            "ipa": "ˈtæks",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "in",
+            "ipa": "ˈɪn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Kind",
+            "ipa": "ˈkaɪnd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-062",
       "zh": "《论合作社》",
       "en": "On Cooperation",
       "definition": "列宁晚年讨论合作社与社会主义建设的文章，强调特定政治经济条件下合作社组织和文化发展的意义。",
-      "sentence": "On Cooperation explores how cooperative organization could connect individual interests with broader social goals under Soviet political conditions.",
-      "translation": "《论合作社》探讨在苏维埃政治条件下合作组织如何把个人利益同更广泛的社会目标联系起来。",
+      "sentence": "state supervision and control of this interest",
+      "translation": "国家对这一利益的监督和控制",
       "hint": "",
       "source": "列宁：On Cooperation（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
-      "sourceNote": "英译页面标题；第一部分论合作社及新经济政策，第二部分论文化条件；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译页面标题；第一部分论合作社及新经济政策，第二部分论文化条件；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "On Cooperation explores how cooperative organization could connect individual interests with broader social goals under Soviet political conditions.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论合作社》",
+        "locator": "第一部分：私人商业利益与国家监督",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这里的这一利益指私人商业利益，片段强调利用个人积极性时仍要分析国家怎样进行监督和引导。",
+        "context": "在新经济政策允许农民贸易的条件下，列宁讨论合作社如何把个人商业利益同共同利益联系起来，并把这种可能性同国家掌握主要生产资料及无产阶级政权联系起来。",
+        "point": "监督控制不是把个人利益一概取消；原文讨论的是一定所有制和政权条件下，两者结合的具体方式。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "On",
+            "ipa": "ˈɑn",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Cooperation",
+            "ipa": "ˌkwɑpɝˈeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-063",
       "zh": "《宁肯少些，但要好些》",
       "en": "Better Fewer, But Better",
       "definition": "列宁于一九二三年发表的晚年文章，强调机关改革重质量、实效和人员能力，反对急于求成与形式主义。",
-      "sentence": "Better Fewer, But Better emphasizes careful institutional reform, capable personnel, and practical improvements instead of impressive numbers or hurried expansion.",
-      "translation": "《宁肯少些，但要好些》强调审慎的机构改革、有能力的人员和实际改进，而不是漂亮的数字或仓促扩张。",
+      "sentence": "Better fewer, but better.",
+      "translation": "宁肯少些，但要好些。",
       "hint": "",
       "source": "列宁：Better Fewer, But Better（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
-      "sourceNote": "英译标题；开头改进国家机关、工农检查院及人员选拔的论述；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "英译标题；开头改进国家机关、工农检查院及人员选拔的论述；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "work",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "Better Fewer, But Better emphasizes careful institutional reform, capable personnel, and practical improvements instead of impressive numbers or hurried expansion.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《宁肯少些，但要好些》",
+        "locator": "篇首：少而精的机关改革准则",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
+        "kind": "原文摘句",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这句用数量与质量的对比提出改革准则，强调机关建设的成果须以实际能力而非规模和速度衡量。",
+        "context": "列宁批评多次改进国家机关只造成忙碌印象，指出人员知识和训练不足，宁愿用较长时间培养可靠力量，也不愿为追求数字和速度而继续制造低效机关。",
+        "point": "少些服务于好些，不能把这句话当作普遍裁减人数的命令，更不能用数量变化替代实质性改进。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Better",
+            "ipa": "ˈbɛtɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Fewer",
+            "ipa": "ˈfjuɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "But",
+            "ipa": "ˈbət",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Better",
+            "ipa": "ˈbɛtɝ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-064",
       "zh": "新经济政策",
       "en": "New Economic Policy",
       "definition": "苏俄自一九二一年实行的经济调整政策，在国家掌握重要经济部门的条件下利用贸易及多种经济形式。",
-      "sentence": "The New Economic Policy allowed limited market activity while the Soviet state retained control over major economic institutions and industries.",
-      "translation": "新经济政策允许有限的市场活动，同时苏维埃国家保留对重要经济机构和产业的控制。",
+      "sentence": "Exchange is freedom of trade",
+      "translation": "交换就是贸易自由",
       "hint": "",
       "source": "列宁：The Tax in Kind（Marxists Internet Archive；Collected Works第32卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
-      "sourceNote": "编注1直接使用New Economic Policy；正文粮食税与贸易及结论说明经济调整内容；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "编注1直接使用New Economic Policy；正文粮食税与贸易及结论说明经济调整内容；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "The New Economic Policy allowed limited market activity while the Soviet state retained control over major economic institutions and industries.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论粮食税》",
+        "locator": "结论：恢复交换、贸易与国家控制条件",
+        "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这段话承认恢复交换会打开贸易和资本发展的空间，强调政策论证必须正视这种经济后果。",
+        "context": "在新经济政策转折中，列宁承认小生产基础上的自由交换会带来资本主义发展，同时在结论强调无产阶级掌握政权及运输和大工业控制权，不能割去这些条件。",
+        "point": "这是对苏俄过渡政策的具体分析，既不是把所有交换都定义为资本主义，也不是主张放弃国家经济控制。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "New",
+            "ipa": "ˈnju",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Economic",
+            "ipa": "ˌɛkəˈnɑmɪk",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Policy",
+            "ipa": "ˈpɑɫəsi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-065",
       "zh": "国家资本主义",
       "en": "state capitalism",
       "definition": "国家以一定方式控制或调节的资本主义经济形式，列宁在苏俄过渡时期讨论其同小生产及社会主义的关系。",
-      "sentence": "Lenin discusses state capitalism as a possible transitional arrangement that must be judged within specific political and economic conditions.",
-      "translation": "列宁把国家资本主义作为一种可能的过渡安排来讨论，认为必须结合具体政治经济条件判断它。",
+      "sentence": "state capitalism is a step forward",
+      "translation": "国家资本主义是一个进步",
       "hint": "",
       "source": "列宁：The Tax in Kind（Marxists Internet Archive；Collected Works第32卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
-      "sourceNote": "The Present-Day Economy of Russia及国家资本主义形式的讨论；不等同于社会主义；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "The Present-Day Economy of Russia及国家资本主义形式的讨论；不等同于社会主义；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "Lenin discusses state capitalism as a possible transitional arrangement that must be judged within specific political and economic conditions.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论粮食税》",
+        "locator": "粮食税、贸易自由和租让制：与小生产的比较",
+        "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段中的进步包含明确的比较对象，原文指相对于当时分散小生产的改进，而非无条件的一般评价。",
+        "context": "在一九二一年政策转变的论述中，列宁反对只把国家资本主义同社会主义抽象对照，要求同时考虑苏俄小生产占优势、生产组织薄弱及国家能够设置控制条件的现实。",
+        "point": "必须把进步性同小生产比较及苏维埃控制条件联系起来，国家资本主义并不因此同社会主义成为同义词。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "state",
+            "ipa": "ˈsteɪt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "capitalism",
+            "ipa": "ˈkæpɪtəˌɫɪzəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-066",
       "zh": "余粮收集制",
       "en": "surplus appropriation system",
       "definition": "战时共产主义时期征集农民余粮的制度，列宁在政策转变中讨论以粮食税代替该制度的现实必要性。",
-      "sentence": "The surplus appropriation system was replaced by a tax arrangement intended to improve peasant incentives and restore economic exchange.",
-      "translation": "余粮收集制被一种旨在改善农民生产积极性并恢复经济交换的税收安排所取代。",
+      "sentence": "primarily and mainly a political question",
+      "translation": "首先而且主要是一个政治问题",
       "hint": "",
       "source": "列宁：The Tax in Kind（Marxists Internet Archive；Collected Works第32卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1921/apr/21.htm",
-      "sourceNote": "The Tax in Kind相关段落直接使用surplus appropriation system；结论回顾政策转变；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "The Tax in Kind相关段落直接使用surplus appropriation system；结论回顾政策转变；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "The surplus appropriation system was replaced by a tax arrangement intended to improve peasant incentives and restore economic exchange.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《关于以实物税代替余粮收集制的报告》",
+        "locator": "俄共十大报告第6项，开头论问题的政治性质",
+        "url": "https://www.marxists.org/archive/lenin/works/1921/10thcong/ch03.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段把以税代征上升为政治关系问题，强调粮食制度调整会影响工人阶级同农民之间的联系。",
+        "context": "列宁在党的第十次代表大会报告中谈到战争、复员、歉收和农民困境，指出粮食政策不能只按行政征收任务理解，必须重新审视两个主要阶级的关系及其经济基础。",
+        "point": "政治问题并不排斥经济机制分析；正是农民利益和工农经济联系，使征收方式具有重要政治后果。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "surplus",
+            "ipa": "ˈsɝpɫəs",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "appropriation",
+            "ipa": "əˌpɹoʊpɹiˈeɪʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "system",
+            "ipa": "ˈsɪstəm",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-067",
       "zh": "合作社运动",
       "en": "cooperative movement",
       "definition": "群众通过合作组织开展经济活动的运动，列宁在苏维埃政权和公有制条件下重新讨论其建设社会主义的意义。",
-      "sentence": "The cooperative movement gains a different significance in Lenin's analysis when political power and ownership conditions have fundamentally changed.",
-      "translation": "当政治权力和所有制条件发生根本变化时，合作社运动在列宁的分析中获得了不同的意义。",
+      "sentence": "cooperative movement has become one of great significance.",
+      "translation": "合作社运动已经变得具有重大意义。",
       "hint": "",
       "source": "列宁：On Cooperation（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
-      "sourceNote": "第一部分开头及合作社同所有制、国家监督和个人利益关系的讨论；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第一部分开头及合作社同所有制、国家监督和个人利益关系的讨论；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "The cooperative movement gains a different significance in Lenin's analysis when political power and ownership conditions have fundamentally changed.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论合作社》",
+        "locator": "第一部分开头：合作运动意义的变化",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段中的已经变得强调条件变化，说明合作社的新意义来自革命后的政权和所有制关系变化。",
+        "context": "列宁先回顾旧合作主义者脱离阶级政治的设想，再分析革命后无产阶级掌权、国家掌握主要生产资料的新条件；新经济政策下的合作运动因而不应沿用旧评价。",
+        "point": "合作社的意义具有条件性，不能仅凭名称判定其社会性质，也不能把过去的批评直接移用于新情境。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "cooperative",
+            "ipa": "koʊˈɑpɝˌeɪtɪv",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "movement",
+            "ipa": "ˈmuvmənt",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-068",
       "zh": "文化革命（列宁晚年语境）",
       "en": "cultural revolution",
       "definition": "列宁晚年关于提高群众文化水平、发展教育和改善建设条件的设想，须结合苏俄扫盲与合作化语境理解。",
-      "sentence": "Lenin's discussion of cultural revolution emphasizes education and literacy as necessary conditions for cooperative development and socialist construction.",
-      "translation": "列宁关于文化革命的讨论强调，教育和识字是合作社发展与社会主义建设的必要条件。",
+      "sentence": "without a cultural revolution.",
+      "translation": "没有一场文化革命。",
       "hint": "",
       "source": "列宁：On Cooperation（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
-      "sourceNote": "第二部分末段使用cultural revolution；此处限定于列宁1923年苏俄文化教育语境；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "第二部分末段使用cultural revolution；此处限定于列宁1923年苏俄文化教育语境；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "Lenin's discussion of cultural revolution emphasizes education and literacy as necessary conditions for cooperative development and socialist construction.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《论合作社》",
+        "locator": "第二部分末段：组织农民所需的文化条件",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/jan/06.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "这是一个条件短语，强调广大农民组织起来需要文化水平的改变，不能只依靠组织名义或行政安排。",
+        "context": "一九二三年论述和平建设时，列宁把农民参与合作社同普遍识字、教育和必要物质基础联系起来，说明文化水平的提高是需要长期努力的建设任务。",
+        "point": "这里限定为一九二三年苏俄的文化教育变革与建设条件，不能把它混同于后来中国的同名政治运动。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "cultural",
+            "ipa": "ˈkəɫtʃɝəɫ",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "revolution",
+            "ipa": "ˌɹɛvəˈɫuʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-069",
       "zh": "工农检查院",
       "en": "Workers' and Peasants' Inspection",
       "definition": "苏维埃国家监督检查机关，列宁晚年讨论其人员选拔和机构改革，要求提升监督能力并改善国家机关工作。",
-      "sentence": "The Workers' and Peasants' Inspection should, in Lenin's proposal, improve state administration through qualified staff and rigorous institutional reform.",
-      "translation": "按照列宁的主张，工农检查院应通过合格人员和严格的机构改革改善国家行政工作。",
+      "sentence": "only on the basis of the strictest test.",
+      "translation": "只有以最严格的检验为依据。",
       "hint": "",
       "source": "列宁：Better Fewer, But Better（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
-      "sourceNote": "开头及人员选拔、检查监督相关段落；原文弯引号统一为普通英文撇号；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "开头及人员选拔、检查监督相关段落；原文弯引号统一为普通英文撇号；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "The Workers' and Peasants' Inspection should, in Lenin's proposal, improve state administration through qualified staff and rigorous institutional reform.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《宁肯少些，但要好些》",
+        "locator": "前半部分：工农检查院工作人员的严格选拔",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段把选拔人员的依据落到严格检验，强调检查机关的权威需要建立在可信的知识能力和工作质量上。",
+        "context": "列宁批评工农检查院组织不良、缺乏社会信任，提出对拟任人员作严谨筛选，检验机关知识和管理能力，并训练他们同中央监察委员会协同工作。",
+        "point": "严格检验不是用形式考试代替工作，而是让人员选拔、专业训练和实际监督能力相互印证。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "Workers'",
+            "ipa": "ˈwɝkɝz",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "and",
+            "ipa": "ˈænd",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Peasants'",
+            "ipa": "ˈpɛzənts",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          },
+          {
+            "word": "Inspection",
+            "ipa": "ˌɪnˈspɛkʃən",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-070",
       "zh": "官僚主义",
       "en": "bureaucracy",
       "definition": "机关工作中脱离实际、维护职位和形式空转等问题，列宁在晚年改革论述中要求通过学习、监督和实效加以克服。",
-      "sentence": "Lenin criticizes bureaucracy when administrative routines and institutional self-interest obstruct effective work and weaken the capacity of public institutions.",
-      "translation": "当行政惯例和机构自身利益阻碍有效工作、削弱公共机构能力时，列宁批评官僚主义。",
+      "sentence": "we have bureaucrats in our Party offices",
+      "translation": "我们党的机关里也有官僚",
       "hint": "",
       "source": "列宁：Better Fewer, But Better（Marxists Internet Archive；Collected Works第33卷英译本）",
       "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
-      "sourceNote": "正文Soviet and Party bureaucracy及对旧机关作风的批评；按批判语境理解，不等同所有行政组织；简释与例句为原创学习材料，非原文引句。",
+      "sourceNote": "正文Soviet and Party bureaucracy及对旧机关作风的批评；按批判语境理解，不等同所有行政组织；简释为项目编写；原文摘句出处另见句后链接。",
       "aliases": [],
       "entryType": "term",
       "author": "列宁",
       "category": "cl",
-      "groupId": "cl-07"
+      "groupId": "cl-07",
+      "quizSentence": "Lenin criticizes bureaucracy when administrative routines and institutional self-interest obstruct effective work and weaken the capacity of public institutions.",
+      "quizSentenceNote": "项目编写的术语拼写练习题。",
+      "excerpt": {
+        "workTitle": "《宁肯少些，但要好些》",
+        "locator": "中部：苏维埃机关和党的机关中的官僚问题",
+        "url": "https://www.marxists.org/archive/lenin/works/1923/mar/02.htm",
+        "kind": "原文片段",
+        "translationNote": "中文为本项目学习用译文。"
+      },
+      "readingGuide": {
+        "meaning": "片段把批评指向党内机关本身，强调官僚积弊不会因为机构具有新的政治名称而自然消失。",
+        "context": "在讨论检查方法与机关改革时，列宁指出苏维埃机关和党的机关都可能有官僚问题，并批评对日常工作制度的改革畏缩不前，要求学习和检查产生真实效果。",
+        "point": "反官僚主义需要检查自身机关的惯例与实际工作，不能只批评旧制度或把问题全部归咎于别人。"
+      },
+      "phonetics": {
+        "parts": [
+          {
+            "word": "bureaucracy",
+            "ipa": "bjʊˈɹɑkɹəsi",
+            "language": "en-US",
+            "url": "https://github.com/open-dict-data/ipa-dict"
+          }
+        ],
+        "label": "逐词读音参考",
+        "note": "普通词采用美式词典读音；按词列出，不表示连读。德语专名另行标注。"
+      }
     },
     {
       "id": "cl-071",
@@ -8786,5 +11686,6 @@
       "groupId": "cl-10"
     }
   ],
-  "version": 2
+  "version": 2,
+  "contentRevision": "classics-reading-2026-10-26"
 }
